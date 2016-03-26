@@ -658,10 +658,10 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/avangard",
-                    "reference": "023757fe6240d3863e8d2b23a40cc94b8d6895ee"
+                    "reference": "b2c21160a80c9fb9dfb329350bfed03249aeb5af"
                 },
                 "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
+                    "magento-hackathon/magento-composer-installer": "3.*"
                 },
                 "require-dev": {
                     "jakub-onderka/php-console-highlighter": "0.*",
@@ -672,7 +672,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-06 09:30:39",
+                "time": "2016-03-26 14:32:49",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -681,7 +681,7 @@
                     "proprietary"
                 ],
                 "description": "Avangard payment module",
-                "homepage": "https://bitbucket.org/mygento/avangard"
+                "homepage": "http://www.mygento.ru/modules/bank-avangard.html"
             }
         },
         "mygento/boxberry": {
