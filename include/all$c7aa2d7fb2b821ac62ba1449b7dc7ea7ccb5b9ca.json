@@ -1876,7 +1876,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/cdek",
-                    "reference": "6d581267d6ee57e0d509272b1cd2ac1dd9b97525"
+                    "reference": "e0aad566e4ad8ba00720a3b9bd99ed9d634fd019"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -1891,7 +1891,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-26 11:15:40",
+                "time": "2016-03-26 14:37:12",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1908,8 +1908,9 @@
                     }
                 ],
                 "description": "CDEK shipping module",
-                "homepage": "https://bitbucket.org/mygento/cdek",
+                "homepage": "http://www.mygento.ru/modules/cdek-edostavka.html",
                 "keywords": [
+                    "cdek",
                     "magento",
                     "shipping"
                 ]
@@ -8348,6 +8349,52 @@
                     "yandex"
                 ]
             },
+            "1.1.16": {
+                "name": "mygento/yandexkassa",
+                "version": "1.1.16",
+                "version_normalized": "1.1.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexkassa",
+                    "reference": "bbc3c4368dbcda7063aabc71de72fb4ae88397d3"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-03-26 17:48:58",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.ru",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Yandex Kassa Payment module",
+                "homepage": "http://www.mygento.ru/modules/payment/yandex-kassa.html",
+                "keywords": [
+                    "magento",
+                    "payment",
+                    "yandex"
+                ]
+            },
             "1.1.2": {
                 "name": "mygento/yandexkassa",
                 "version": "1.1.2",
@@ -8766,7 +8813,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "797ab39f75297d7c08b1e7ecd20e60e2ebd15a98"
+                    "reference": "bbc3c4368dbcda7063aabc71de72fb4ae88397d3"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -8781,7 +8828,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-25 19:45:23",
+                "time": "2016-03-26 17:48:58",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
