@@ -5666,10 +5666,10 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "c11e0086a031496b92f7f7019dfbc0460f58de74"
+                    "reference": "a5dd850b48979e98617bbf94ea5959e878525a9d"
                 },
                 "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
+                    "magento-hackathon/magento-composer-installer": "3.*"
                 },
                 "require-dev": {
                     "jakub-onderka/php-console-highlighter": "0.*",
@@ -5681,7 +5681,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-08 08:19:56",
+                "time": "2016-03-30 11:07:46",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5698,9 +5698,10 @@
                     }
                 ],
                 "description": "Ocourier shipping extension",
-                "homepage": "https://bitbucket.org/mygento/ocourier",
+                "homepage": "http://www.mygento.ru/modules/ocourier.html",
                 "keywords": [
                     "magento",
+                    "ocourier",
                     "ozon",
                     "shipping"
                 ]
@@ -9029,14 +9030,14 @@
                 "description": "Yandex money payment module",
                 "homepage": "https://bitbucket.org/mygento/yandexmoney"
             },
-            "dev-master": {
+            "1.2.4": {
                 "name": "mygento/yandexmoney",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexmoney.git",
-                    "reference": "d1576134519381c90142d0fc06a73293bf2c90fc"
+                    "reference": "93bd4b91819310874711dbdcb463b863e6a13ef6"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -9050,7 +9051,39 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-01-08 19:21:44",
+                "time": "2016-03-30 12:33:12",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Yandex money payment module",
+                "homepage": "https://bitbucket.org/mygento/yandexmoney"
+            },
+            "dev-master": {
+                "name": "mygento/yandexmoney",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexmoney.git",
+                    "reference": "93bd4b91819310874711dbdcb463b863e6a13ef6"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-03-30 12:33:12",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
