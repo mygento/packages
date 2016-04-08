@@ -7827,7 +7827,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/spsr",
-                    "reference": "d6b653e219c3df4c9a87502bd8e086d7b423bcd2"
+                    "reference": "a1e32d6b734e89664729676bf34cd63e7dfb4635"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -7842,7 +7842,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-05 12:34:48",
+                "time": "2016-04-07 14:57:05",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
