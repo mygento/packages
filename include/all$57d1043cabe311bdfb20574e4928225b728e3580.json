@@ -4890,144 +4890,6 @@
                 "homepage": "https://bitbucket.org/mygento/friendlycheckout"
             }
         },
-        "mygento/geoip": {
-            "1.0.0": {
-                "name": "mygento/geoip",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/geoip",
-                    "reference": "8fe26ff11a75c79697a4bffa75637ce41a809fbe"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-05-26 12:51:08",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": "."
-                },
-                "license": [
-                    "Apache-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Geo IP module for magento",
-                "homepage": "https://github.com/mygento/geoip.git",
-                "keywords": [
-                    "geoip",
-                    "magento"
-                ]
-            },
-            "dev-master": {
-                "name": "mygento/geoip",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/geoip",
-                    "reference": "800e3cddfa00c627109c5576162bea0be62bd3c5"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*",
-                    "mygento/base": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-06-08 13:41:47",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "Apache-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Geo IP module for magento",
-                "homepage": "https://github.com/mygento/geoip.git",
-                "keywords": [
-                    "geoip",
-                    "magento"
-                ]
-            },
-            "dev-devel": {
-                "name": "mygento/geoip",
-                "version": "dev-devel",
-                "version_normalized": "dev-devel",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/geoip",
-                    "reference": "a55fc1bdcd636557fb4f48ea0b4fdc27ac379559"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*",
-                    "mygento/base": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-06-04 11:21:37",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "Apache-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Geo IP module for magento",
-                "homepage": "https://github.com/mygento/geoip.git",
-                "keywords": [
-                    "geoip",
-                    "magento"
-                ]
-            }
-        },
         "mygento/googlemerchant": {
             "1.1.1": {
                 "name": "mygento/googlemerchant",
@@ -5753,14 +5615,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "1.2.2": {
                 "name": "mygento/ocourier",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "f1679be1c7072646040808ef6e68a3d1986c17e4"
+                    "reference": "66da9108117d658f32999ec26798daafaff39da0"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -5775,7 +5637,54 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-11 08:06:08",
+                "time": "2016-04-13 15:14:51",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Ocourier shipping extension",
+                "homepage": "http://www.mygento.ru/modules/ocourier.html",
+                "keywords": [
+                    "magento",
+                    "ocourier",
+                    "ozon",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/ocourier",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ocourier.git",
+                    "reference": "66da9108117d658f32999ec26798daafaff39da0"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-04-13 15:14:51",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -7384,330 +7293,6 @@
                 "homepage": "https://bitbucket.org/mygento/shortmessage"
             }
         },
-        "mygento/simplepay": {
-            "1.0.0": {
-                "name": "mygento/simplepay",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/simplepay",
-                    "reference": "4390346b6dcbe1a7adf390e15e1caca4c6fca1c7"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-08-14 12:12:58",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.ru",
-                        "homepage": "http://www.mygento.ru/"
-                    }
-                ],
-                "description": "SimplePay payment extension",
-                "homepage": "https://github.com/mygento/simplepay",
-                "keywords": [
-                    "magento",
-                    "payment",
-                    "shipping"
-                ]
-            },
-            "1.0.1": {
-                "name": "mygento/simplepay",
-                "version": "1.0.1",
-                "version_normalized": "1.0.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/simplepay",
-                    "reference": "f9eb24394ed581ee444796e3b8f87c18a53941cb"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-08-14 18:42:31",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.ru",
-                        "homepage": "http://www.mygento.ru/"
-                    }
-                ],
-                "description": "SimplePay payment extension",
-                "homepage": "https://github.com/mygento/simplepay",
-                "keywords": [
-                    "magento",
-                    "payment",
-                    "shipping"
-                ]
-            },
-            "1.0.2": {
-                "name": "mygento/simplepay",
-                "version": "1.0.2",
-                "version_normalized": "1.0.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/simplepay",
-                    "reference": "2dcc804ba07c407b93f45c7ce2caff503898ae6d"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-08-17 14:56:23",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.ru",
-                        "homepage": "http://www.mygento.ru/"
-                    }
-                ],
-                "description": "SimplePay payment extension",
-                "homepage": "https://github.com/mygento/simplepay",
-                "keywords": [
-                    "magento",
-                    "payment",
-                    "shipping"
-                ]
-            },
-            "1.0.3": {
-                "name": "mygento/simplepay",
-                "version": "1.0.3",
-                "version_normalized": "1.0.3.0",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/simplepay",
-                    "reference": "9abaf4b0506f36161656bbbecab0dc30612f5398"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-08-19 12:12:35",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.ru",
-                        "homepage": "http://www.mygento.ru/"
-                    }
-                ],
-                "description": "SimplePay payment extension",
-                "homepage": "https://github.com/mygento/simplepay",
-                "keywords": [
-                    "magento",
-                    "payment",
-                    "shipping"
-                ]
-            },
-            "1.0.4": {
-                "name": "mygento/simplepay",
-                "version": "1.0.4",
-                "version_normalized": "1.0.4.0",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/simplepay",
-                    "reference": "8162bde4cb77d088bfd8020449a22cbbc25687c4"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-08-28 12:57:05",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.ru",
-                        "homepage": "http://www.mygento.ru/"
-                    }
-                ],
-                "description": "SimplePay payment extension",
-                "homepage": "https://github.com/mygento/simplepay",
-                "keywords": [
-                    "magento",
-                    "payment",
-                    "shipping"
-                ]
-            },
-            "dev-master": {
-                "name": "mygento/simplepay",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/simplepay",
-                    "reference": "8162bde4cb77d088bfd8020449a22cbbc25687c4"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-08-28 12:57:05",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.ru",
-                        "homepage": "http://www.mygento.ru/"
-                    }
-                ],
-                "description": "SimplePay payment extension",
-                "homepage": "https://github.com/mygento/simplepay",
-                "keywords": [
-                    "magento",
-                    "payment",
-                    "shipping"
-                ]
-            },
-            "dev-devel": {
-                "name": "mygento/simplepay",
-                "version": "dev-devel",
-                "version_normalized": "dev-devel",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/mygento/simplepay",
-                    "reference": "0f4a4aeda207f5a9dbf9b8bd67c45ccaa8153720"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-08-17 12:20:53",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.ru",
-                        "homepage": "http://www.mygento.ru/"
-                    }
-                ],
-                "description": "SimplePay payment extension",
-                "homepage": "https://github.com/mygento/simplepay",
-                "keywords": [
-                    "magento",
-                    "payment",
-                    "shipping"
-                ]
-            }
-        },
         "mygento/spsr": {
             "2.0.7": {
                 "name": "mygento/spsr",
@@ -7874,7 +7459,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/spsr",
-                    "reference": "a1e32d6b734e89664729676bf34cd63e7dfb4635"
+                    "reference": "7702418160f28dec549c4a35a8f74be594c32a84"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -7889,7 +7474,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-07 14:57:05",
+                "time": "2016-04-13 10:07:19",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",

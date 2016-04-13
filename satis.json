@@ -2,8 +2,6 @@
     "name": "Mygento",
     "homepage": "http://mygento.github.io/packages",
     "repositories": [
-        { "type": "git", "url": "https://github.com/mygento/geoip"},
-        { "type": "git", "url": "https://github.com/mygento/simplepay" },
         { "type": "git", "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git"},
         { "type": "git", "url": "https://github.com/nexcess/magento-turpentine.git"},
         { "type": "git", "url": "git@bitbucket.org:mygento/sbrf.git"},
