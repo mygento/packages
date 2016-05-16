@@ -1448,14 +1448,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "1.4.0": {
                 "name": "mygento/boxberry",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "f8e3a478fe37d28ce0a0c44ab5de140a0a5ec414"
+                    "reference": "97ee21b82cc116dbf88e38d85b1ef2ee25117838"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -1470,7 +1470,58 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-18 14:03:12",
+                "time": "2016-05-16 16:45:52",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    },
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Boxberry integration",
+                "homepage": "http://www.mygento.ru/modules/boxberry.html",
+                "keywords": [
+                    "boxberry",
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/boxberry",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/boxberry.git",
+                    "reference": "97ee21b82cc116dbf88e38d85b1ef2ee25117838"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-05-16 16:45:52",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2150,14 +2201,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "3.1.0.5": {
                 "name": "mygento/cdek",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "3.1.0.5",
+                "version_normalized": "3.1.0.5",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/cdek",
-                    "reference": "fdacc46384153dca8414918ab82a9bffe3e9f0bc"
+                    "reference": "9f7ec7c158415d03c3dc8cadf4d1fa42ca227733"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2172,7 +2223,53 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-11 13:20:27",
+                "time": "2016-05-16 18:25:55",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "CDEK shipping module",
+                "homepage": "http://www.mygento.ru/modules/cdek-edostavka.html",
+                "keywords": [
+                    "cdek",
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/cdek",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/cdek",
+                    "reference": "9f7ec7c158415d03c3dc8cadf4d1fa42ca227733"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-05-16 18:25:55",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9139,7 +9236,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "8d98f1bf0016e6095615bde3300862077aaba99d"
+                    "reference": "386acb48d933bfdcf20f6151d19e64d7cb8749f1"
                 },
                 "require": {
                     "magento/framework": "*",
@@ -9157,7 +9254,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2016-05-05 13:31:34",
+                "time": "2016-05-13 15:02:32",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
