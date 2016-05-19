@@ -9478,7 +9478,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "386acb48d933bfdcf20f6151d19e64d7cb8749f1"
+                    "reference": "bbcf032c2c624831f89a95beab7e13e3e293c86d"
                 },
                 "require": {
                     "magento/framework": "*",
@@ -9496,7 +9496,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2016-05-13 15:02:32",
+                "time": "2016-05-19 07:52:05",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
