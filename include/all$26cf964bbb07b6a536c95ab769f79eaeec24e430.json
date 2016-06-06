@@ -6711,7 +6711,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "818fe89118e40e3308284e3b9ea91432d10bc461"
+                    "reference": "d29b9e0f9740ea7b276f59894663af7fb76a2c0f"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -6720,13 +6720,13 @@
                     "jakub-onderka/php-console-highlighter": "0.*",
                     "jakub-onderka/php-parallel-lint": "0.*",
                     "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
+                    "mygento/coding-standard": "1.*",
                     "phpmd/phpmd": "@stable",
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-06 07:29:38",
+                "time": "2016-06-06 08:29:24",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -8341,7 +8341,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "44e1a24a2607afa53a6fcdb05e6a8f9db1f1d36a"
+                    "reference": "f6753a2e0f3cb1421ecd04d393bb8c1d705a93d9"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -8358,7 +8358,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-02 15:38:48",
+                "time": "2016-06-06 08:56:38",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
