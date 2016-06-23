@@ -4539,16 +4539,16 @@
                 "description": "Magento Enterprise",
                 "homepage": "http://www.magentocommerce.com"
             },
-            "1.14.x-dev": {
+            "1.14.2.4": {
                 "name": "mygento/enterprise",
-                "version": "1.14.x-dev",
-                "version_normalized": "1.14.9999999.9999999-dev",
+                "version": "1.14.2.4",
+                "version_normalized": "1.14.2.4",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/enterprise.git",
-                    "reference": "f03aace59437b89a690471a6ad046b20fe3f1b37"
+                    "reference": "c830d88d2162242188dc62406b1e8041fa396f6c"
                 },
-                "time": "2016-04-26 09:49:01",
+                "time": "2016-06-23 08:50:51",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -4585,8 +4585,105 @@
                             "media"
                         ],
                         [
-                            "pkginfo",
-                            "pkginfo"
+                            "shell",
+                            "shell"
+                        ],
+                        [
+                            "skin",
+                            "skin"
+                        ],
+                        [
+                            "var",
+                            "var"
+                        ],
+                        [
+                            ".htaccess",
+                            ".htaccess"
+                        ],
+                        [
+                            "api.php",
+                            "api.php"
+                        ],
+                        [
+                            "cron.php",
+                            "cron.php"
+                        ],
+                        [
+                            "cron.sh",
+                            "cron.sh"
+                        ],
+                        [
+                            "favicon.ico",
+                            "favicon.ico"
+                        ],
+                        [
+                            "get.php",
+                            "get.php"
+                        ],
+                        [
+                            "index.php",
+                            "index.php"
+                        ],
+                        [
+                            "install.php",
+                            "install.php"
+                        ],
+                        [
+                            "mage",
+                            "mage"
+                        ]
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Magento Enterprise",
+                "homepage": "http://www.magentocommerce.com"
+            },
+            "1.14.x-dev": {
+                "name": "mygento/enterprise",
+                "version": "1.14.x-dev",
+                "version_normalized": "1.14.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/enterprise.git",
+                    "reference": "c830d88d2162242188dc62406b1e8041fa396f6c"
+                },
+                "time": "2016-06-23 08:50:51",
+                "type": "magento-core",
+                "extra": {
+                    "map": [
+                        [
+                            "app",
+                            "app"
+                        ],
+                        [
+                            "dev",
+                            "dev"
+                        ],
+                        [
+                            "downloader",
+                            "downloader"
+                        ],
+                        [
+                            "errors",
+                            "errors"
+                        ],
+                        [
+                            "includes",
+                            "includes"
+                        ],
+                        [
+                            "js",
+                            "js"
+                        ],
+                        [
+                            "lib",
+                            "lib"
+                        ],
+                        [
+                            "media",
+                            "media"
                         ],
                         [
                             "shell",
@@ -5484,6 +5581,50 @@
                     "magento"
                 ]
             },
+            "2.5.7": {
+                "name": "mygento/exportymlpro",
+                "version": "2.5.7",
+                "version_normalized": "2.5.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "647ebb5f3a594c4e1a985c31058d49b300ffebf5"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-06-23 09:22:45",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
             "4.0.x-dev": {
                 "name": "mygento/exportymlpro",
                 "version": "4.0.x-dev",
@@ -5511,7 +5652,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "fc7c5c4efedcaa8ad0061c655705b1c719257f7d"
+                    "reference": "647ebb5f3a594c4e1a985c31058d49b300ffebf5"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -5526,7 +5667,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-05 11:14:38",
+                "time": "2016-06-23 09:22:45",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -8479,7 +8620,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "8db9c3b173dcf48b7f237064b635764dbdcf879d"
+                    "reference": "10e2650e644a8759150516c7339e3dfa758fd84d"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -8496,7 +8637,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-20 19:16:58",
+                "time": "2016-06-22 09:19:59",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
