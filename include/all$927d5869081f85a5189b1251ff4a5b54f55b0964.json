@@ -5078,22 +5078,79 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/enterprise.git",
-                    "reference": "a2243b8f87ebebac64f9bb83f0b4393626ca2281"
+                    "reference": "924d8f443661f9adf33a2218651c0729db9a7adb"
                 },
                 "require": {
                     "composer/composer": "@alpha",
-                    "magento/product-enterprise-edition": "2.0.7"
+                    "magento/product-enterprise-edition": "2.1.0"
                 },
                 "require-dev": {
                     "fabpot/php-cs-fixer": "~1.2",
                     "lusitanian/oauth": "~0.3 <=0.7.0",
                     "pdepend/pdepend": "2.2.2",
-                    "phpmd/phpmd": "2.3.*",
+                    "phpmd/phpmd": "@stable",
                     "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-05-26 10:32:31",
+                "time": "2016-06-23 19:28:44",
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Magento\\Sniffs\\": "dev/tests/static/framework/Magento/Sniffs/",
+                        "Magento\\Tools\\": "dev/tools/Magento/Tools/",
+                        "Magento\\Tools\\Sanity\\": "dev/build/publication/sanity/Magento/Tools/Sanity/",
+                        "Magento\\TestFramework\\Inspection\\": "dev/tests/static/framework/Magento/TestFramework/Inspection/",
+                        "Magento\\TestFramework\\Utility\\": "dev/tests/static/framework/Magento/TestFramework/Utility/",
+                        "Magento\\ToolkitFramework\\": "dev/tools/performance-toolkit/framework/Magento/ToolkitFramework/"
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "eCommerce Platform for Growth (Enterprise Edition)"
+            },
+            "2.1.0": {
+                "name": "mygento/enterprise",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/enterprise.git",
+                    "reference": "924d8f443661f9adf33a2218651c0729db9a7adb"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-enterprise-edition": "2.1.0"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "time": "2016-06-23 19:28:44",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -7384,6 +7441,100 @@
                 "keywords": [
                     "magento",
                     "payment"
+                ]
+            }
+        },
+        "mygento/pochta": {
+            "1.0.0": {
+                "name": "mygento/pochta",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/pochta",
+                    "reference": "df7a4579e6fef884298c5c66d6607c0111e1ccb0"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-06-29 13:10:29",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Russian Pochta Extension",
+                "homepage": "https://bitbucket.org/mygento/pochta",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/pochta",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/pochta",
+                    "reference": "df7a4579e6fef884298c5c66d6607c0111e1ccb0"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-06-29 13:10:29",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Russian Pochta Extension",
+                "homepage": "https://bitbucket.org/mygento/pochta",
+                "keywords": [
+                    "magento",
+                    "shipping"
                 ]
             }
         },
@@ -10806,7 +10957,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/nexcess/magento-turpentine.git",
-                    "reference": "44cbe812912fa538051b129dfeaee8cef2d8fbae"
+                    "reference": "b14b6a9a5e8cec6de8697df4e1d77f144129bfc0"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
@@ -10814,7 +10965,7 @@
                 "replace": {
                     "connect20/nexcessnet_turpentine": "self.version"
                 },
-                "time": "2016-06-09 21:25:31",
+                "time": "2016-06-28 23:18:42",
                 "type": "magento-module",
                 "license": [
                     "GPL-2.0+"
