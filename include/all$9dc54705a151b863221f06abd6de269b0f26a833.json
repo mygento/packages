@@ -9337,7 +9337,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/spsr",
-                    "reference": "5a5ab143f42b4e45ecae7bef4d42e445b62f9eb5"
+                    "reference": "82cc4a24599c94f3eabd167a6ad8de8ae45afbe7"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -9352,7 +9352,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-05 13:40:57",
+                "time": "2016-07-05 14:29:37",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9383,7 +9383,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/spsr",
-                    "reference": "5a5ab143f42b4e45ecae7bef4d42e445b62f9eb5"
+                    "reference": "82cc4a24599c94f3eabd167a6ad8de8ae45afbe7"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -9398,7 +9398,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-05 13:40:57",
+                "time": "2016-07-05 14:29:37",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
