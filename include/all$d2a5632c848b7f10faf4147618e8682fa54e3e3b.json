@@ -7537,14 +7537,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "1.0.2": {
                 "name": "mygento/pochta",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pochta",
-                    "reference": "f9dcf444ee0bce1839a8336f7f7d77a07d0db33b"
+                    "reference": "4d1162b05dacec031ed8791df02b4252c4b63b80"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*",
@@ -7560,7 +7560,53 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-01 13:27:27",
+                "time": "2016-07-05 13:50:53",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Russian Pochta Extension",
+                "homepage": "https://bitbucket.org/mygento/pochta",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/pochta",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/pochta",
+                    "reference": "4d1162b05dacec031ed8791df02b4252c4b63b80"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-07-05 13:50:53",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9284,14 +9330,14 @@
                     "spsr"
                 ]
             },
-            "dev-master": {
+            "2.2.7": {
                 "name": "mygento/spsr",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.2.7",
+                "version_normalized": "2.2.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/spsr",
-                    "reference": "8189b57fac2b31e01f988da416ddac22cc21124d"
+                    "reference": "5a5ab143f42b4e45ecae7bef4d42e445b62f9eb5"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -9306,7 +9352,53 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-14 13:51:08",
+                "time": "2016-07-05 13:40:57",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "SPSR shipping module",
+                "homepage": "http://www.mygento.ru/modules/spsr-express.html",
+                "keywords": [
+                    "magento",
+                    "shipping",
+                    "spsr"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/spsr",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/spsr",
+                    "reference": "5a5ab143f42b4e45ecae7bef4d42e445b62f9eb5"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-07-05 13:40:57",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
