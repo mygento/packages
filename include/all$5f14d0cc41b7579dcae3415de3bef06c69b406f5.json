@@ -7867,14 +7867,14 @@
                     "retailrocket"
                 ]
             },
-            "dev-master": {
+            "1.1.2": {
                 "name": "mygento/retailrocket",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/retailrocket",
-                    "reference": "d1e0b3de43729201891b2c9046b5cf71718ea273"
+                    "reference": "b3dba24b9c27293ee8fe4cc7c2ae3497830f18f3"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -7889,7 +7889,52 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-18 11:25:31",
+                "time": "2016-07-06 13:39:23",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Retail Rocket module",
+                "homepage": "https://bitbucket.org/mygento/retailrocket",
+                "keywords": [
+                    "magento",
+                    "retailrocket"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/retailrocket",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/retailrocket",
+                    "reference": "b3dba24b9c27293ee8fe4cc7c2ae3497830f18f3"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-07-06 13:39:23",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
