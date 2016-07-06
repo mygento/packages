@@ -651,14 +651,14 @@
                 "description": "Avangard payment module",
                 "homepage": "https://bitbucket.org/mygento/avangard"
             },
-            "dev-master": {
+            "1.1.2": {
                 "name": "mygento/avangard",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/avangard",
-                    "reference": "b2c21160a80c9fb9dfb329350bfed03249aeb5af"
+                    "reference": "2729ba78acd91bdf6f8ce9a102b75aa382f3032e"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -667,15 +667,51 @@
                     "jakub-onderka/php-console-highlighter": "0.*",
                     "jakub-onderka/php-parallel-lint": "0.*",
                     "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
                     "phpmd/phpmd": "@stable",
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-26 14:32:49",
+                "time": "2016-07-06 11:39:00",
                 "type": "magento-module",
                 "extra": {
-                    "magento-root-dir": "."
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Avangard payment module",
+                "homepage": "http://www.mygento.ru/modules/bank-avangard.html"
+            },
+            "dev-master": {
+                "name": "mygento/avangard",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/avangard",
+                    "reference": "2729ba78acd91bdf6f8ce9a102b75aa382f3032e"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-07-06 11:39:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
                 },
                 "license": [
                     "proprietary"
