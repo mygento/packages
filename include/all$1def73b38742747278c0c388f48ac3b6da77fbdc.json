@@ -257,7 +257,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "e0b35954b036937fa9622491fbc2f53c5b7f56bc"
+                    "reference": "0f6bdb0b7a8a5857cd2312e6ae130b5a6cfa21ff"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
@@ -266,7 +266,7 @@
                 "replace": {
                     "ivanchepurnyi/ecomdev_phpunit": "*"
                 },
-                "time": "2015-08-12 13:59:20",
+                "time": "2016-07-12 18:10:31",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -7179,7 +7179,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "4eb2ee7c239280304f8a2dec98d36b454e73da36"
+                    "reference": "7e8d25217403af5380d31cb0f84cd50d2cd53901"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -7194,7 +7194,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-08 11:06:25",
+                "time": "2016-07-13 07:17:25",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
