@@ -9314,6 +9314,92 @@
             }
         },
         "mygento/shortmessage": {
+            "1.5.3": {
+                "name": "mygento/shortmessage",
+                "version": "1.5.3",
+                "version_normalized": "1.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/shortmessage",
+                    "reference": "89e085fee7309d7be229c66661e62bd5eb2e227b"
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-07-19 10:31:13",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Magento SMS and Email notifications",
+                "homepage": "http://www.mygento.ru/modules/sms-order-notinication.html"
+            },
+            "dev-master": {
+                "name": "mygento/shortmessage",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/shortmessage",
+                    "reference": "89e085fee7309d7be229c66661e62bd5eb2e227b"
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-07-19 10:31:13",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Magento SMS and Email notifications",
+                "homepage": "http://www.mygento.ru/modules/sms-order-notinication.html"
+            },
             "dev-dev": {
                 "name": "mygento/shortmessage",
                 "version": "dev-dev",
@@ -9362,7 +9448,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "0c341209d341ac227639fc1b7e0c4ad58c40313f"
+                    "reference": "d23c3e532089b61599a9b93236e6b8e517504b4b"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -9379,7 +9465,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-15 09:08:26",
+                "time": "2016-07-19 10:28:27",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11646,7 +11732,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/nexcess/magento-turpentine.git",
-                    "reference": "b14b6a9a5e8cec6de8697df4e1d77f144129bfc0"
+                    "reference": "3137f950318fa1d3b8476ea82be6e1194eece6a2"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
@@ -11654,7 +11740,7 @@
                 "replace": {
                     "connect20/nexcessnet_turpentine": "self.version"
                 },
-                "time": "2016-06-28 23:18:42",
+                "time": "2016-07-18 14:52:36",
                 "type": "magento-module",
                 "license": [
                     "GPL-2.0+"
