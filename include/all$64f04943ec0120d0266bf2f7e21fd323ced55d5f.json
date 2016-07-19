@@ -9321,7 +9321,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "89e085fee7309d7be229c66661e62bd5eb2e227b"
+                    "reference": "8b3694ef7c76da570605c35238d46cc28e70b130"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -9338,7 +9338,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-19 10:31:13",
+                "time": "2016-07-19 11:10:23",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9364,7 +9364,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "89e085fee7309d7be229c66661e62bd5eb2e227b"
+                    "reference": "8b3694ef7c76da570605c35238d46cc28e70b130"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -9381,7 +9381,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-19 10:31:13",
+                "time": "2016-07-19 11:10:23",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9448,7 +9448,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "d23c3e532089b61599a9b93236e6b8e517504b4b"
+                    "reference": "ebd7099d37bcdd91699334af7bbad733184c4cbb"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -9465,7 +9465,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-19 10:28:27",
+                "time": "2016-07-19 11:09:23",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
