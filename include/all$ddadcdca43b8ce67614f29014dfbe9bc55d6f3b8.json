@@ -9364,7 +9364,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "1b040e9bf4b36ea6a63900d53d420f051d90b010"
+                    "reference": "f036457fb54d0d850ce1fa7af23abb4aa72e60b3"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -9381,7 +9381,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-22 09:45:25",
+                "time": "2016-07-22 10:00:52",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9407,7 +9407,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "1b040e9bf4b36ea6a63900d53d420f051d90b010"
+                    "reference": "f036457fb54d0d850ce1fa7af23abb4aa72e60b3"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -9424,7 +9424,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-22 09:45:25",
+                "time": "2016-07-22 10:00:52",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
