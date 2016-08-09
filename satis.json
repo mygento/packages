@@ -32,7 +32,9 @@
         { "type": "git", "url": "git@bitbucket.org:mygento/robokassa"},
         { "type": "git", "url": "git@bitbucket.org:mygento/webmoney"},
         { "type": "git", "url": "git@bitbucket.org:mygento/pickpoint"},
-	{ "type": "git", "url": "git@bitbucket.org:mygento/pochta"}
+	{ "type": "git", "url": "git@bitbucket.org:mygento/pochta"},
+	{ "type": "git", "url": "git@bitbucket.org:mygento/ponyexpress"},
+        { "type": "git", "url": "git@bitbucket.org:mygento/pek"}
     ],
     "require-all": true
 }

@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 satis
 vendor
+/nbproject/private/
