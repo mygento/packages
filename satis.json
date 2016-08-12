@@ -34,7 +34,8 @@
         { "type": "git", "url": "git@bitbucket.org:mygento/pickpoint"},
 	{ "type": "git", "url": "git@bitbucket.org:mygento/pochta"},
 	{ "type": "git", "url": "git@bitbucket.org:mygento/ponyexpress"},
-        { "type": "git", "url": "git@bitbucket.org:mygento/pek"}
+        { "type": "git", "url": "git@bitbucket.org:mygento/pek"},
+	{ "type": "git", "url": "git@bitbucket.org:mygento/uniteller"}
     ],
     "require-all": true
 }
