@@ -8526,6 +8526,52 @@
                     "shipping"
                 ]
             },
+            "1.0.5": {
+                "name": "mygento/pochta",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/pochta",
+                    "reference": "29a244257c6230c553d46ded9f7ff17917f771bc"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-08-22 08:45:47",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Russian Pochta Extension",
+                "homepage": "https://bitbucket.org/mygento/pochta",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
             "2.0.x-dev": {
                 "name": "mygento/pochta",
                 "version": "2.0.x-dev",
@@ -8574,7 +8620,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pochta",
-                    "reference": "79ec01427cfd0cf3a6fd72e7694333ef6f2b1e38"
+                    "reference": "29a244257c6230c553d46ded9f7ff17917f771bc"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*",
@@ -8590,7 +8636,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-22 06:00:51",
+                "time": "2016-08-22 08:45:47",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
