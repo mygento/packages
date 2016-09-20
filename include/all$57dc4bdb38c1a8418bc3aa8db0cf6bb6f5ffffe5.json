@@ -2045,7 +2045,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "f0482bdb92dcdc7dd4f032cf212b48ab374f3d60"
+                    "reference": "a41bb68d923d57b23bfeab9864f1dd5732da9e40"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2060,7 +2060,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-13 08:07:27",
+                "time": "2016-09-14 14:16:12",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9202,7 +9202,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "275502977d76a0da34f7df3fe268db261798160c"
+                    "reference": "79608d72032b20646cf32c1d5284b7c6519d2ea9"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -9217,7 +9217,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-07 11:39:38",
+                "time": "2016-09-20 10:59:49",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11337,7 +11337,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/uniteller",
-                    "reference": "579caaf12cc912313834fe6bf6925eb708a25b33"
+                    "reference": "f40a0a06ee50ccc68b02a169f200225dc4b9c155"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*",
@@ -11353,7 +11353,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-12 11:50:45",
+                "time": "2016-09-16 16:07:51",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
