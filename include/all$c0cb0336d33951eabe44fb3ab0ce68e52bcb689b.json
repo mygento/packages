@@ -8563,14 +8563,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "1.0.5": {
                 "name": "mygento/pek",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pek",
-                    "reference": "59e564ab093cea27c3cfbdc274b7eb8ed0454d29"
+                    "reference": "e9efe59c43ef448eea7220b7c5ba25f44c958743"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -8585,7 +8585,53 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-12 17:38:48",
+                "time": "2016-09-22 10:22:18",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "PEK Russia shipping module",
+                "homepage": "http://www.mygento.ru/modules/pek.html",
+                "keywords": [
+                    "magento",
+                    "pek",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/pek",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/pek",
+                    "reference": "e9efe59c43ef448eea7220b7c5ba25f44c958743"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-09-22 10:22:18",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13157,7 +13203,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/nexcess/magento-turpentine.git",
-                    "reference": "4ff5f6c8e58a2ebc8c89ba22b08b7d666a53f7d1"
+                    "reference": "f7aad946a54e1ec6875fbcf6150d8e3692ed746d"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
@@ -13165,7 +13211,7 @@
                 "replace": {
                     "connect20/nexcessnet_turpentine": "self.version"
                 },
-                "time": "2016-08-25 08:59:40",
+                "time": "2016-09-20 11:39:56",
                 "type": "magento-module",
                 "license": [
                     "GPL-2.0+"
