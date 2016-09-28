@@ -8662,7 +8662,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pek",
-                    "reference": "1f2a740c17a6e68319864b929c7b57532ec378a7"
+                    "reference": "1aca2cffde0ee1f545965277b72bdd2bb39200c0"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -8677,7 +8677,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-28 11:44:47",
+                "time": "2016-09-28 14:54:41",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
