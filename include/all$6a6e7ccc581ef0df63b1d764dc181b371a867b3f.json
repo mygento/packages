@@ -3450,7 +3450,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/deloviye_linii.git",
-                    "reference": "37f660217d1689595fc4f5042dec37a3c997d13c"
+                    "reference": "55115f3713ffd02df90cf273e13835a128783aae"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -3465,7 +3465,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-04 09:32:25",
+                "time": "2016-09-28 09:37:16",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -8609,14 +8609,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "1.0.6": {
                 "name": "mygento/pek",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pek",
-                    "reference": "e9efe59c43ef448eea7220b7c5ba25f44c958743"
+                    "reference": "1f2a740c17a6e68319864b929c7b57532ec378a7"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -8631,7 +8631,53 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-22 10:22:18",
+                "time": "2016-09-28 11:44:47",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "PEK Russia shipping module",
+                "homepage": "http://www.mygento.ru/modules/pek.html",
+                "keywords": [
+                    "magento",
+                    "pek",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/pek",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/pek",
+                    "reference": "1f2a740c17a6e68319864b929c7b57532ec378a7"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-09-28 11:44:47",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9114,7 +9160,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pochta",
-                    "reference": "e7331abf29931b8a243231a6cd60a4489c6fb006"
+                    "reference": "60c59d52072f1267e36a78d776f3e2a6d88d57c4"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*",
@@ -9130,7 +9176,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-06 15:54:37",
+                "time": "2016-09-27 15:18:58",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9248,7 +9294,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "79608d72032b20646cf32c1d5284b7c6519d2ea9"
+                    "reference": "0db720d1e09c45ff8cace80a89f91ad784c53354"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -9263,7 +9309,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-20 10:59:49",
+                "time": "2016-09-27 14:49:35",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
