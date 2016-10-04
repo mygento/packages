@@ -6559,6 +6559,50 @@
                     "magento"
                 ]
             },
+            "2.5.8": {
+                "name": "mygento/exportymlpro",
+                "version": "2.5.8",
+                "version_normalized": "2.5.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "a732ec9dbaa4d19581294bc3789db8edd08b7238"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-09-30 10:54:08",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
             "4.0.x-dev": {
                 "name": "mygento/exportymlpro",
                 "version": "4.0.x-dev",
@@ -6586,7 +6630,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "647ebb5f3a594c4e1a985c31058d49b300ffebf5"
+                    "reference": "a732ec9dbaa4d19581294bc3789db8edd08b7238"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -6601,7 +6645,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-23 09:22:45",
+                "time": "2016-09-30 10:54:08",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -8662,7 +8706,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pek",
-                    "reference": "1aca2cffde0ee1f545965277b72bdd2bb39200c0"
+                    "reference": "b94120a4972c4d5df368a771ad1e735cc38250cd"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -8677,7 +8721,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-28 14:54:41",
+                "time": "2016-10-04 14:22:14",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9160,7 +9204,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pochta",
-                    "reference": "0eecd2a537960ede2b39cb67f4d00cabe2620c72"
+                    "reference": "35f8f1b6e1d52f66efd99611c453e64a59960af0"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*",
@@ -9176,7 +9220,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-28 16:14:18",
+                "time": "2016-09-29 15:10:48",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9224,6 +9268,96 @@
                     "squizlabs/php_codesniffer": "2.*"
                 },
                 "time": "2016-08-12 12:12:57",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Module module",
+                "homepage": "http://www.mygento.ru/modules/ponyexpress.html",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "1.0.3": {
+                "name": "mygento/ponyexpress",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ponyexpress",
+                    "reference": "b9a3c09f798c7942c125ca530fb10d05a40a465b"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-09-23 16:16:52",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Module module",
+                "homepage": "http://www.mygento.ru/modules/ponyexpress.html",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "1.0.4": {
+                "name": "mygento/ponyexpress",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ponyexpress",
+                    "reference": "5bc58f1d6b50fcd37ddc3e6a0078ce3d45153956"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-10-04 20:47:33",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -9294,7 +9428,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "cd275c089ea7b536476341a2a92dddc0c6013a93"
+                    "reference": "5bc58f1d6b50fcd37ddc3e6a0078ce3d45153956"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -9309,7 +9443,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-28 15:40:12",
+                "time": "2016-10-04 20:47:33",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13238,7 +13372,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/nexcess/magento-turpentine.git",
-                    "reference": "8549a0f207c63e62c61570f81925bd574c63f2c5"
+                    "reference": "5317850308035557cd17f41dda55d1d027747c95"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
@@ -13246,7 +13380,7 @@
                 "replace": {
                     "connect20/nexcessnet_turpentine": "self.version"
                 },
-                "time": "2016-05-31 13:53:22",
+                "time": "2016-10-03 12:32:15",
                 "type": "magento-module",
                 "license": [
                     "GPL-2.0+"
@@ -13296,7 +13430,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/nexcess/magento-turpentine.git",
-                    "reference": "f7aad946a54e1ec6875fbcf6150d8e3692ed746d"
+                    "reference": "e7bb3caaccfa3468620b0ac093711072c7fd60e2"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
@@ -13304,7 +13438,7 @@
                 "replace": {
                     "connect20/nexcessnet_turpentine": "self.version"
                 },
-                "time": "2016-09-20 11:39:56",
+                "time": "2016-10-04 16:06:00",
                 "type": "magento-module",
                 "license": [
                     "GPL-2.0+"
