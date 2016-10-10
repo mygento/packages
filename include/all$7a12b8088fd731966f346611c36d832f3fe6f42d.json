@@ -6162,666 +6162,6 @@
                 "homepage": "https://bitbucket.org/mygento/exgarant"
             }
         },
-        "mygento/exportymlpro": {
-            "2.0.x-dev": {
-                "name": "mygento/exportymlpro",
-                "version": "2.0.x-dev",
-                "version_normalized": "2.0.9999999.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "44d9877d803c83c1d350a4bc1048e2223e17f3d6"
-                },
-                "require": {
-                    "magento/framework": "*",
-                    "php": "~5.5.0|~5.6.0|~7.0.0"
-                },
-                "time": "2016-02-18 19:55:42",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Mygento\\YandexMarketExport\\": ""
-                    }
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "description": "Metrika Module",
-                "homepage": "http://www.mygento.ru/modules/yandex-market-export-pro.html",
-                "keywords": [
-                    "magento",
-                    "market",
-                    "yandex",
-                    "yml"
-                ]
-            },
-            "2.5.0": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.0",
-                "version_normalized": "2.5.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "b359e1886e0c346e6a52dea1b9f1074d1e080d95"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "time": "2015-03-18 14:36:00",
-                "type": "magento-module",
-                "license": [
-                    "proprietary"
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro"
-            },
-            "2.5.1": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.1",
-                "version_normalized": "2.5.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "73bbd099d91a7080cf3ad5671b7a708d19791307"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-04-14 11:42:47",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": "."
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro"
-            },
-            "2.5.2": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.2",
-                "version_normalized": "2.5.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "766d302e69a16641a079ae18dd2ddc49f59bae6c"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.0.2"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-06-19 09:39:58",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "2.5.3": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.3",
-                "version_normalized": "2.5.3.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "6b20c888f25d997a0d2a45b1f3a0f0624226ed09"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.0.2"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-06-22 21:24:32",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "2.5.4": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.4",
-                "version_normalized": "2.5.4.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "2374f9918454652fde83b4d894ecd257149369cf"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.0.2"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-07-30 08:37:33",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "2.5.4.1": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.4.1",
-                "version_normalized": "2.5.4.1",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "004fa4ae4b0d90eff056c7dbe24d7d398a99e600"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-09-10 11:39:28",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "2.5.5": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.5",
-                "version_normalized": "2.5.5.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "e29f00a259e9f0fdfd9ee2a120ce3ceb5d42dc35"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-11-27 08:44:43",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "2.5.6": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.6",
-                "version_normalized": "2.5.6.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "fc7c5c4efedcaa8ad0061c655705b1c719257f7d"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2016-02-05 11:14:38",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "2.5.7": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.7",
-                "version_normalized": "2.5.7.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "647ebb5f3a594c4e1a985c31058d49b300ffebf5"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2016-06-23 09:22:45",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "2.5.8": {
-                "name": "mygento/exportymlpro",
-                "version": "2.5.8",
-                "version_normalized": "2.5.8.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "a732ec9dbaa4d19581294bc3789db8edd08b7238"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2016-09-30 10:54:08",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "4.0.x-dev": {
-                "name": "mygento/exportymlpro",
-                "version": "4.0.x-dev",
-                "version_normalized": "4.0.9999999.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "83fb2f9e0f439c767d6186c714e4c91fc97c9abf"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "time": "2015-01-16 09:38:59",
-                "type": "magento-module",
-                "license": [
-                    "proprietary"
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro"
-            },
-            "dev-master": {
-                "name": "mygento/exportymlpro",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "a732ec9dbaa4d19581294bc3789db8edd08b7238"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2016-09-30 10:54:08",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "dev-devel": {
-                "name": "mygento/exportymlpro",
-                "version": "dev-devel",
-                "version_normalized": "dev-devel",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "9fc8712f97c595bc39dcce766b81e49f54a6579d"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-04-27 13:50:52",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": "."
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro"
-            },
-            "dev-devel2": {
-                "name": "mygento/exportymlpro",
-                "version": "dev-devel2",
-                "version_normalized": "dev-devel2",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "59b605c3e4a9012b35e577b0eb77220e8b38ef3e"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2016-07-19 14:55:15",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "dev-luckyraul/shopmainphp-edited-online-with-bitbucket-1441884970760": {
-                "name": "mygento/exportymlpro",
-                "version": "dev-luckyraul/shopmainphp-edited-online-with-bitbucket-1441884970760",
-                "version_normalized": "dev-luckyraul/shopmainphp-edited-online-with-bitbucket-1441884970760",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "2229e40572c886bf36c6ed45d3cdee4dab4bed9a"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.0.2"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-09-10 11:36:11",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro",
-                "keywords": [
-                    "magento"
-                ]
-            },
-            "dev-unit_tests": {
-                "name": "mygento/exportymlpro",
-                "version": "dev-unit_tests",
-                "version_normalized": "dev-unit_tests",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "d666ad405a96eaec705118bc0dc7bc5c7b9e6b34"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-04-14 14:52:16",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": "."
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "description": "Yandex Market Export module",
-                "homepage": "https://bitbucket.org/mygento/yandexpro"
-            }
-        },
         "mygento/friendlycheckout": {
             "1.11.3": {
                 "name": "mygento/friendlycheckout",
@@ -12482,7 +11822,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "3b0efe5d3ecd32e9f670a881eb9fa85533b64f94"
+                    "reference": "7d41963211ff1bfbbdfa990c51074e429a8d0605"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -12497,7 +11837,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-23 14:55:39",
+                "time": "2016-10-10 07:43:07",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12912,7 +12252,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "3b0efe5d3ecd32e9f670a881eb9fa85533b64f94"
+                    "reference": "7d41963211ff1bfbbdfa990c51074e429a8d0605"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -12927,7 +12267,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-23 14:55:39",
+                "time": "2016-10-10 07:43:07",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13095,6 +12435,671 @@
                 ],
                 "description": "Yandex money payment module",
                 "homepage": "https://bitbucket.org/mygento/yandexmoney"
+            }
+        },
+        "mygento/yandexpro": {
+            "2.0.x-dev": {
+                "name": "mygento/yandexpro",
+                "version": "2.0.x-dev",
+                "version_normalized": "2.0.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "44d9877d803c83c1d350a4bc1048e2223e17f3d6"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-02-18 19:55:42",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mygento\\YandexMarketExport\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Metrika Module",
+                "homepage": "http://www.mygento.ru/modules/yandex-market-export-pro.html",
+                "keywords": [
+                    "magento",
+                    "market",
+                    "yandex",
+                    "yml"
+                ]
+            },
+            "2.5.0": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "b359e1886e0c346e6a52dea1b9f1074d1e080d95"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-18 14:36:00",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro"
+            },
+            "2.5.1": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "73bbd099d91a7080cf3ad5671b7a708d19791307"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-04-14 11:42:47",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro"
+            },
+            "2.5.2": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "766d302e69a16641a079ae18dd2ddc49f59bae6c"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.0.2"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-06-19 09:39:58",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "2.5.3": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "6b20c888f25d997a0d2a45b1f3a0f0624226ed09"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.0.2"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-06-22 21:24:32",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "2.5.4": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.4",
+                "version_normalized": "2.5.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "2374f9918454652fde83b4d894ecd257149369cf"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.0.2"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-07-30 08:37:33",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "2.5.4.1": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.4.1",
+                "version_normalized": "2.5.4.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "004fa4ae4b0d90eff056c7dbe24d7d398a99e600"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-09-10 11:39:28",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "2.5.5": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.5",
+                "version_normalized": "2.5.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "e29f00a259e9f0fdfd9ee2a120ce3ceb5d42dc35"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-11-27 08:44:43",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "2.5.6": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.6",
+                "version_normalized": "2.5.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "fc7c5c4efedcaa8ad0061c655705b1c719257f7d"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-02-05 11:14:38",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "2.5.7": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.7",
+                "version_normalized": "2.5.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "647ebb5f3a594c4e1a985c31058d49b300ffebf5"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-06-23 09:22:45",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "2.5.8": {
+                "name": "mygento/yandexpro",
+                "version": "2.5.8",
+                "version_normalized": "2.5.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "a732ec9dbaa4d19581294bc3789db8edd08b7238"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-09-30 10:54:08",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "4.0.x-dev": {
+                "name": "mygento/yandexpro",
+                "version": "4.0.x-dev",
+                "version_normalized": "4.0.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "83fb2f9e0f439c767d6186c714e4c91fc97c9abf"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-01-16 09:38:59",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro"
+            },
+            "dev-master": {
+                "name": "mygento/yandexpro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "af19eebcf1116478b1a023fe3d970b69f427d97b"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "replace": {
+                    "mygento/exportymlpro": "self.version"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-10-07 10:00:33",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "http://www.mygento.ru/modules/yandex-market-export-pro.html",
+                "keywords": [
+                    "magento",
+                    "market",
+                    "yandex"
+                ]
+            },
+            "dev-devel": {
+                "name": "mygento/yandexpro",
+                "version": "dev-devel",
+                "version_normalized": "dev-devel",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "9fc8712f97c595bc39dcce766b81e49f54a6579d"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-04-27 13:50:52",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro"
+            },
+            "dev-devel2": {
+                "name": "mygento/yandexpro",
+                "version": "dev-devel2",
+                "version_normalized": "dev-devel2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "59b605c3e4a9012b35e577b0eb77220e8b38ef3e"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-07-19 14:55:15",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "dev-luckyraul/shopmainphp-edited-online-with-bitbucket-1441884970760": {
+                "name": "mygento/yandexpro",
+                "version": "dev-luckyraul/shopmainphp-edited-online-with-bitbucket-1441884970760",
+                "version_normalized": "dev-luckyraul/shopmainphp-edited-online-with-bitbucket-1441884970760",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "2229e40572c886bf36c6ed45d3cdee4dab4bed9a"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.0.2"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-09-10 11:36:11",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro",
+                "keywords": [
+                    "magento"
+                ]
+            },
+            "dev-unit_tests": {
+                "name": "mygento/yandexpro",
+                "version": "dev-unit_tests",
+                "version_normalized": "dev-unit_tests",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/yandexpro.git",
+                    "reference": "d666ad405a96eaec705118bc0dc7bc5c7b9e6b34"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-04-14 14:52:16",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Yandex Market Export module",
+                "homepage": "https://bitbucket.org/mygento/yandexpro"
             }
         },
         "nexcess/magento-turpentine": {
