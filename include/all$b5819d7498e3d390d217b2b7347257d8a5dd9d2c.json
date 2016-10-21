@@ -9268,6 +9268,51 @@
                     "shipping"
                 ]
             },
+            "1.0.6": {
+                "name": "mygento/ponyexpress",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ponyexpress",
+                    "reference": "d38c5a7b645cbc1d6950bc8360d64f8f941d108c"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-10-21 13:16:46",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Module module",
+                "homepage": "http://www.mygento.ru/modules/ponyexpress.html",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
             "2.0.x-dev": {
                 "name": "mygento/ponyexpress",
                 "version": "2.0.x-dev",
@@ -9316,7 +9361,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "8ee9b5630ed4876715cbd293c7509be466eb829b"
+                    "reference": "d38c5a7b645cbc1d6950bc8360d64f8f941d108c"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -9331,7 +9376,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-12 16:17:48",
+                "time": "2016-10-21 13:16:46",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
