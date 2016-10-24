@@ -1681,6 +1681,57 @@
                     "shipping"
                 ]
             },
+            "1.4.11": {
+                "name": "mygento/boxberry",
+                "version": "1.4.11",
+                "version_normalized": "1.4.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/boxberry.git",
+                    "reference": "de8895c48bfe27acd98c1a3d7d02eda259509c51"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-10-24 08:54:20",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    },
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Boxberry integration",
+                "homepage": "http://www.mygento.ru/modules/boxberry.html",
+                "keywords": [
+                    "boxberry",
+                    "magento",
+                    "shipping"
+                ]
+            },
             "1.4.2": {
                 "name": "mygento/boxberry",
                 "version": "1.4.2",
@@ -2096,7 +2147,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "f23f6ee3f3c49dd7cf7299997327f7a586914272"
+                    "reference": "de8895c48bfe27acd98c1a3d7d02eda259509c51"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2111,7 +2162,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-19 08:26:48",
+                "time": "2016-10-24 08:54:20",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
