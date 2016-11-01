@@ -10020,51 +10020,6 @@
                     "ozon",
                     "shipping"
                 ]
-            },
-            "dev-devel": {
-                "name": "mygento/ocourier",
-                "version": "dev-devel",
-                "version_normalized": "dev-devel",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "7f3b44d46fb1852474a68da695e58986d06bf27f"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2015-06-22 12:11:17",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "http://www.mygento.ru/"
-                    }
-                ],
-                "description": "Ocourier shipping extension",
-                "homepage": "https://bitbucket.org/mygento/ocourier",
-                "keywords": [
-                    "magento",
-                    "shipping"
-                ]
             }
         },
         "mygento/openid": {
@@ -11384,6 +11339,51 @@
                     "shipping"
                 ]
             },
+            "1.0.7": {
+                "name": "mygento/ponyexpress",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ponyexpress",
+                    "reference": "d7f3ae8e88be949c6ef59e975bb452aa42ece8f4"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-11-01 17:02:06",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Module module",
+                "homepage": "http://www.mygento.ru/modules/ponyexpress.html",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
             "2.0.x-dev": {
                 "name": "mygento/ponyexpress",
                 "version": "2.0.x-dev",
@@ -11432,7 +11432,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "f1a7ab453d8413287933223e2c7e66adbbc1bfbd"
+                    "reference": "d7f3ae8e88be949c6ef59e975bb452aa42ece8f4"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -11447,7 +11447,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-31 09:17:31",
+                "time": "2016-11-01 17:02:06",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
