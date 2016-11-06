@@ -3277,6 +3277,51 @@
                     "shipping"
                 ]
             },
+            "3.0.11": {
+                "name": "mygento/dellin",
+                "version": "3.0.11",
+                "version_normalized": "3.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/deloviye_linii.git",
+                    "reference": "ef6c1c44f9dfd33e7f993d3a3b3f3fca0cc86b89"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-11-06 17:40:54",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.ru",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Dellin shipping module",
+                "homepage": "http://www.mygento.ru/modules/delovyye-linii.html",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
             "3.0.2": {
                 "name": "mygento/dellin",
                 "version": "3.0.2",
@@ -3597,7 +3642,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/deloviye_linii.git",
-                    "reference": "65b533daad4078d8df40307cb1454ba49a7356fa"
+                    "reference": "ef6c1c44f9dfd33e7f993d3a3b3f3fca0cc86b89"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -3612,7 +3657,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-02 05:54:57",
+                "time": "2016-11-06 17:40:54",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14962,7 +15007,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "e6991a7a6b2b875096cd54a1325912666dd2c78f"
+                    "reference": "3f9c6499259907ea94854be1c60d3eca6d59d7b3"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -14977,7 +15022,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-10 16:10:32",
+                "time": "2016-11-06 15:58:11",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
