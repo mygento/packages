@@ -15007,7 +15007,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "3f9c6499259907ea94854be1c60d3eca6d59d7b3"
+                    "reference": "5ffff638f85ca26120e520a4854e3a0fa361231e"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -15022,7 +15022,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-06 15:58:11",
+                "time": "2016-11-06 18:51:08",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
