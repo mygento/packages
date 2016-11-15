@@ -1732,6 +1732,57 @@
                     "shipping"
                 ]
             },
+            "1.4.12": {
+                "name": "mygento/boxberry",
+                "version": "1.4.12",
+                "version_normalized": "1.4.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/boxberry.git",
+                    "reference": "ade717e2cdd9dc364cd7b85772722107adff266d"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-11-09 11:47:07",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    },
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Boxberry integration",
+                "homepage": "http://www.mygento.ru/modules/boxberry.html",
+                "keywords": [
+                    "boxberry",
+                    "magento",
+                    "shipping"
+                ]
+            },
             "1.4.2": {
                 "name": "mygento/boxberry",
                 "version": "1.4.2",
@@ -2147,7 +2198,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "de8895c48bfe27acd98c1a3d7d02eda259509c51"
+                    "reference": "ade717e2cdd9dc364cd7b85772722107adff266d"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2162,7 +2213,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-24 08:54:20",
+                "time": "2016-11-09 11:47:07",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -7774,6 +7825,107 @@
                 "description": "Magento Enterprise",
                 "homepage": "http://www.magentocommerce.com"
             },
+            "1.14.3.1": {
+                "name": "mygento/enterprise",
+                "version": "1.14.3.1",
+                "version_normalized": "1.14.3.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/enterprise.git",
+                    "reference": "5893c8fdc7ece4ab046cb82b14931be8b3affb33"
+                },
+                "time": "2016-11-15 07:45:51",
+                "type": "magento-core",
+                "extra": {
+                    "map": [
+                        [
+                            "app",
+                            "app"
+                        ],
+                        [
+                            "dev",
+                            "dev"
+                        ],
+                        [
+                            "downloader",
+                            "downloader"
+                        ],
+                        [
+                            "errors",
+                            "errors"
+                        ],
+                        [
+                            "includes",
+                            "includes"
+                        ],
+                        [
+                            "js",
+                            "js"
+                        ],
+                        [
+                            "lib",
+                            "lib"
+                        ],
+                        [
+                            "media",
+                            "media"
+                        ],
+                        [
+                            "shell",
+                            "shell"
+                        ],
+                        [
+                            "skin",
+                            "skin"
+                        ],
+                        [
+                            "var",
+                            "var"
+                        ],
+                        [
+                            ".htaccess",
+                            ".htaccess"
+                        ],
+                        [
+                            "api.php",
+                            "api.php"
+                        ],
+                        [
+                            "cron.php",
+                            "cron.php"
+                        ],
+                        [
+                            "cron.sh",
+                            "cron.sh"
+                        ],
+                        [
+                            "favicon.ico",
+                            "favicon.ico"
+                        ],
+                        [
+                            "get.php",
+                            "get.php"
+                        ],
+                        [
+                            "index.php",
+                            "index.php"
+                        ],
+                        [
+                            "install.php",
+                            "install.php"
+                        ],
+                        [
+                            "mage",
+                            "mage"
+                        ]
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Magento Enterprise",
+                "homepage": "http://www.magentocommerce.com"
+            },
             "1.14.x-dev": {
                 "name": "mygento/enterprise",
                 "version": "1.14.x-dev",
@@ -7781,9 +7933,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/enterprise.git",
-                    "reference": "e034bf840d1c5f54ec428318a3e1887237e1d3eb"
+                    "reference": "5893c8fdc7ece4ab046cb82b14931be8b3affb33"
                 },
-                "time": "2016-10-13 07:33:31",
+                "time": "2016-11-15 07:45:51",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9688,6 +9840,53 @@
                     "shipping"
                 ]
             },
+            "1.3.11": {
+                "name": "mygento/ocourier",
+                "version": "1.3.11",
+                "version_normalized": "1.3.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ocourier.git",
+                    "reference": "8e19182ee36898b3e090dfe83eee9d5dbf75b9bb"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-11-09 12:00:22",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Ocourier shipping extension",
+                "homepage": "http://www.mygento.ru/modules/ocourier.html",
+                "keywords": [
+                    "magento",
+                    "ocourier",
+                    "ozon",
+                    "shipping"
+                ]
+            },
             "1.3.2": {
                 "name": "mygento/ocourier",
                 "version": "1.3.2",
@@ -10071,7 +10270,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "127c3f775bbe0fd91d06238fed9afd49138d03eb"
+                    "reference": "f296b93723997653a036d5d5ce42918df30591d7"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -10086,7 +10285,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-18 09:49:55",
+                "time": "2016-11-09 12:06:02",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
