@@ -11972,6 +11972,51 @@
                     "shipping"
                 ]
             },
+            "1.0.9": {
+                "name": "mygento/ponyexpress",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ponyexpress",
+                    "reference": "304faa1d1d515b52b975da063b44abfc9b18920d"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-12-02 10:00:56",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Module module",
+                "homepage": "http://www.mygento.ru/modules/ponyexpress.html",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
             "2.0.x-dev": {
                 "name": "mygento/ponyexpress",
                 "version": "2.0.x-dev",
@@ -12020,7 +12065,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "6f1fe2492ce78543e5dd804b808450a11d6a0654"
+                    "reference": "304faa1d1d515b52b975da063b44abfc9b18920d"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -12035,7 +12080,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-01 08:39:44",
+                "time": "2016-12-02 10:00:56",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14193,6 +14238,53 @@
                     "magento",
                     "payment",
                     "shipping"
+                ]
+            },
+            "dev-increment_id": {
+                "name": "mygento/uniteller",
+                "version": "dev-increment_id",
+                "version_normalized": "dev-increment_id",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/uniteller",
+                    "reference": "082ebfd6a922830aa5119c80cbb050fd734ab416"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2016-12-02 08:08:31",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Module module",
+                "homepage": "https://bitbucket.org/mygento/uniteller",
+                "keywords": [
+                    "magento",
+                    "payment",
+                    "uniteller"
                 ]
             }
         },
