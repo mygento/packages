@@ -10368,6 +10368,53 @@
                     "shipping"
                 ]
             },
+            "1.3.15": {
+                "name": "mygento/ocourier",
+                "version": "1.3.15",
+                "version_normalized": "1.3.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ocourier.git",
+                    "reference": "4be8ec12d1d8ac2b75ef8e139c371191f67d35bf"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-01-18 11:30:22",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Ocourier shipping extension",
+                "homepage": "http://www.mygento.ru/modules/ocourier.html",
+                "keywords": [
+                    "magento",
+                    "ocourier",
+                    "ozon",
+                    "shipping"
+                ]
+            },
             "1.3.2": {
                 "name": "mygento/ocourier",
                 "version": "1.3.2",
@@ -10751,7 +10798,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "29ce9fb078b012f9b2019921cb72c2a89ad66e0a"
+                    "reference": "4be8ec12d1d8ac2b75ef8e139c371191f67d35bf"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -10766,7 +10813,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-15 13:07:00",
+                "time": "2017-01-18 11:30:22",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12407,7 +12454,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "48955d2aa0839711f05fafa9632f9160e19c5852"
+                    "reference": "b8fb197deeb0acd3acb95b77bf3cb93b39e08c1a"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -12422,7 +12469,52 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-23 07:40:20",
+                "time": "2017-01-17 13:13:17",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Module module",
+                "homepage": "http://www.mygento.ru/modules/ponyexpress.html",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "dev-region_fix": {
+                "name": "mygento/ponyexpress",
+                "version": "dev-region_fix",
+                "version_normalized": "dev-region_fix",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ponyexpress",
+                    "reference": "7e896971dba16663c1ec9ca66346611789da7203"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-01-17 13:11:56",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12782,14 +12874,14 @@
                     "retailrocket"
                 ]
             },
-            "dev-master": {
+            "1.3.1": {
                 "name": "mygento/retailrocket",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/retailrocket",
-                    "reference": "c92e55277629a9ad965547cf7f717b3a00748cf2"
+                    "reference": "7d073b07058524713009a1ee0f70cc340e0d160b"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -12804,7 +12896,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-19 12:58:27",
+                "time": "2017-01-12 11:46:37",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12821,7 +12913,52 @@
                     }
                 ],
                 "description": "Retail Rocket module",
-                "homepage": "https://bitbucket.org/mygento/retailrocket",
+                "homepage": "https://www.mygento.ru/modules/retailrocket.html",
+                "keywords": [
+                    "magento",
+                    "retailrocket"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/retailrocket",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/retailrocket",
+                    "reference": "7d073b07058524713009a1ee0f70cc340e0d160b"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-01-12 11:46:37",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Retail Rocket module",
+                "homepage": "https://www.mygento.ru/modules/retailrocket.html",
                 "keywords": [
                     "magento",
                     "retailrocket"
@@ -13936,14 +14073,14 @@
                 "description": "Magento SMS and Email notifications",
                 "homepage": "http://www.mygento.ru/modules/sms-order-notinication.html"
             },
-            "dev-master": {
+            "1.5.6": {
                 "name": "mygento/shortmessage",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.5.6",
+                "version_normalized": "1.5.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "0a7fbef45f9590084d902edad5e0c6c85c0cd59f"
+                    "reference": "65494f1a23f6af47eccf72fd89d5779220f1a350"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -13960,7 +14097,136 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-02 08:38:34",
+                "time": "2017-01-16 10:39:48",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Magento SMS and Email notifications",
+                "homepage": "http://www.mygento.ru/modules/sms-order-notinication.html"
+            },
+            "1.5.7": {
+                "name": "mygento/shortmessage",
+                "version": "1.5.7",
+                "version_normalized": "1.5.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/shortmessage",
+                    "reference": "9a1f078b73fee8e425a351318db366ddd96aea50"
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-01-20 07:36:39",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Magento SMS and Email notifications",
+                "homepage": "http://www.mygento.ru/modules/sms-order-notinication.html"
+            },
+            "1.5.8": {
+                "name": "mygento/shortmessage",
+                "version": "1.5.8",
+                "version_normalized": "1.5.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/shortmessage",
+                    "reference": "543542d08a2fec8f64b297dea2bfb7f085d9e659"
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-01-20 08:24:22",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Magento SMS and Email notifications",
+                "homepage": "http://www.mygento.ru/modules/sms-order-notinication.html"
+            },
+            "dev-master": {
+                "name": "mygento/shortmessage",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/shortmessage",
+                    "reference": "543542d08a2fec8f64b297dea2bfb7f085d9e659"
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-01-20 08:24:22",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15876,7 +16142,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "cac572d81ca259f86ebcbca3a9c9e805f4334d83"
+                    "reference": "d821ed00f3f91d18be27e2a151bb0bd8d058322d"
                 },
                 "require": {
                     "magento/framework": "100.*",
@@ -15892,7 +16158,7 @@
                     "monolog/monolog": "^1.16.0",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2016-11-15 15:30:08",
+                "time": "2017-01-19 10:16:51",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -17187,7 +17453,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/nexcess/magento-turpentine.git",
-                    "reference": "130b1664880c40c6b791a4e4e58ee560c9105b28"
+                    "reference": "7f1b6349f2736ceadf1f29926149734f2ec66060"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
@@ -17195,7 +17461,7 @@
                 "replace": {
                     "connect20/nexcessnet_turpentine": "self.version"
                 },
-                "time": "2016-11-18 11:26:12",
+                "time": "2017-01-09 13:24:19",
                 "type": "magento-module",
                 "license": [
                     "GPL-2.0+"
@@ -17290,6 +17556,35 @@
                 "description": "A Varnish extension for Magento.",
                 "homepage": "http://www.magentocommerce.com/magento-connect/2984.html"
             },
+            "dev-revert-1132-fix-1129": {
+                "name": "nexcess/magento-turpentine",
+                "version": "dev-revert-1132-fix-1129",
+                "version_normalized": "dev-revert-1132-fix-1129",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "3df3ec0b21cfa2247a811f882e02409be4195b8d"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2016-12-27 13:46:16",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html"
+            },
             "dev-scrutinizer-patch-1": {
                 "name": "nexcess/magento-turpentine",
                 "version": "dev-scrutinizer-patch-1",
@@ -17335,6 +17630,35 @@
                     "connect20/nexcessnet_turpentine": "self.version"
                 },
                 "time": "2016-01-14 14:02:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html"
+            },
+            "dev-scrutinizer-patch-3": {
+                "name": "nexcess/magento-turpentine",
+                "version": "dev-scrutinizer-patch-3",
+                "version_normalized": "dev-scrutinizer-patch-3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "bcd58538bed76c35ec00e950847eb2ea3928ff68"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2016-12-27 13:57:21",
                 "type": "magento-module",
                 "license": [
                     "GPL-2.0+"
