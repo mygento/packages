@@ -3470,7 +3470,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/cdek",
-                    "reference": "bd0d07b690f22b46c443d2ff61b57267168e4f2b"
+                    "reference": "23b8faeb7a99e234a11654398f51f4c7115d932b"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -3485,7 +3485,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-17 13:15:23",
+                "time": "2017-01-25 17:28:54",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14202,14 +14202,14 @@
                 "description": "Magento SMS and Email notifications",
                 "homepage": "http://www.mygento.ru/modules/sms-order-notinication.html"
             },
-            "dev-master": {
+            "1.5.9": {
                 "name": "mygento/shortmessage",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.5.9",
+                "version_normalized": "1.5.9.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/shortmessage",
-                    "reference": "543542d08a2fec8f64b297dea2bfb7f085d9e659"
+                    "reference": "94e9e5a78a9ade0e232cd5e41802f2c50a9ccd9c"
                 },
                 "require": {
                     "ext-soap": "*",
@@ -14226,7 +14226,50 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-20 08:24:22",
+                "time": "2017-01-20 13:10:06",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Magento SMS and Email notifications",
+                "homepage": "http://www.mygento.ru/modules/sms-order-notinication.html"
+            },
+            "dev-master": {
+                "name": "mygento/shortmessage",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/shortmessage",
+                    "reference": "94e9e5a78a9ade0e232cd5e41802f2c50a9ccd9c"
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "magento-hackathon/magento-composer-installer": "3.*",
+                    "mygento/base": "1.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-01-20 13:10:06",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
