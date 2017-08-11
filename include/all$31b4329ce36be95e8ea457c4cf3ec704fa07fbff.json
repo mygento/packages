@@ -4029,14 +4029,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "3.2.0.2": {
                 "name": "mygento/cdek",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "3.2.0.2",
+                "version_normalized": "3.2.0.2",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/cdek",
-                    "reference": "4a5b610b988d8a92c92de4d2f9ea2891efc183a8"
+                    "reference": "2c70ae7129305294ba771ca23135f541f50ac1d5"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -4049,7 +4049,95 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-03T14:20:16+00:00",
+                "time": "2017-08-10T07:50:38+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "CDEK shipping module",
+                "homepage": "https://www.mygento.ru/modules/cdek-edostavka.html",
+                "keywords": [
+                    "cdek",
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "3.2.0.3": {
+                "name": "mygento/cdek",
+                "version": "3.2.0.3",
+                "version_normalized": "3.2.0.3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/cdek",
+                    "reference": "3f0128dca400445fe8fe04754a72f5cbfb4dbef7"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*"
+                },
+                "time": "2017-08-11T09:49:31+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "CDEK shipping module",
+                "homepage": "https://www.mygento.ru/modules/cdek-edostavka.html",
+                "keywords": [
+                    "cdek",
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/cdek",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/cdek",
+                    "reference": "3f0128dca400445fe8fe04754a72f5cbfb4dbef7"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*"
+                },
+                "time": "2017-08-11T09:49:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5277,7 +5365,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/dpd",
-                    "reference": "bcb1dbbe2d60185d36e6ee63981c5a9ec58a9328"
+                    "reference": "c0db5f7fc38839ef1d36e30b541d822c292595f5"
                 },
                 "require": {
                     "mygento/shipment": "dev-MYGMOD-3",
@@ -5286,7 +5374,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-08-02T16:27:35+00:00",
+                "time": "2017-08-10T16:03:45+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -12881,7 +12969,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "c0ad9631e1e7b6eec2da1d180b02503c16c4095a"
+                    "reference": "a307ddf6a3743dd5fcd3be47846de2dc5d96d8cc"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -12896,7 +12984,54 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-31T16:01:35+00:00",
+                "time": "2017-08-11T09:06:20+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Ocourier shipping extension",
+                "homepage": "http://www.mygento.ru/modules/ocourier.html",
+                "keywords": [
+                    "magento",
+                    "ocourier",
+                    "ozon",
+                    "shipping"
+                ]
+            },
+            "dev-Bug-array-to-string-conversion": {
+                "name": "mygento/ocourier",
+                "version": "dev-Bug-array-to-string-conversion",
+                "version_normalized": "dev-Bug-array-to-string-conversion",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ocourier.git",
+                    "reference": "e970ec0d57b74c240d364c39f0edb6e74fd80c6b"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "2.*",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-08-11T09:03:32+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15033,7 +15168,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "399ae28c41967f3f12a01328bf75dc343ce21579"
+                    "reference": "640f7d27355327abbfe0814b6f961ea8d19cd426"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -15046,7 +15181,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-07-31T13:13:36+00:00",
+                "time": "2017-08-04T13:07:24+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
