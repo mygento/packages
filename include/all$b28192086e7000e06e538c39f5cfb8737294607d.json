@@ -2281,6 +2281,57 @@
                     "shipping"
                 ]
             },
+            "1.4.21": {
+                "name": "mygento/boxberry",
+                "version": "1.4.21",
+                "version_normalized": "1.4.21.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/boxberry.git",
+                    "reference": "5a0dad82f291aba478cec99b0f93d8b620f3cf97"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-08-15T15:51:35+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "https://www.mygento.ru/"
+                    },
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Boxberry integration",
+                "homepage": "https://www.mygento.ru/modules/boxberry.html",
+                "keywords": [
+                    "boxberry",
+                    "magento",
+                    "shipping"
+                ]
+            },
             "1.4.3": {
                 "name": "mygento/boxberry",
                 "version": "1.4.3",
@@ -2645,7 +2696,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "1e4eafb5d2150c3f50053f35113fcf0c26ed7f0a"
+                    "reference": "5a0dad82f291aba478cec99b0f93d8b620f3cf97"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2660,58 +2711,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-05-30T15:40:47+00:00",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "https://www.mygento.ru/"
-                    },
-                    {
-                        "name": "Nikita Tarasov",
-                        "email": "nikita@mygento.net",
-                        "homepage": "http://www.mygento.net/"
-                    }
-                ],
-                "description": "Boxberry integration",
-                "homepage": "https://www.mygento.ru/modules/boxberry.html",
-                "keywords": [
-                    "boxberry",
-                    "magento",
-                    "shipping"
-                ]
-            },
-            "dev-MYGMOD-27-boxberry-fz54": {
-                "name": "mygento/boxberry",
-                "version": "dev-MYGMOD-27-boxberry-fz54",
-                "version_normalized": "dev-MYGMOD-27-boxberry-fz54",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "37454b827428d0d1ee2b154ec6e2c159517b52e1"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "1.*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2017-08-02T09:37:12+00:00",
+                "time": "2017-08-15T15:51:35+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5365,7 +5365,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/dpd",
-                    "reference": "c0db5f7fc38839ef1d36e30b541d822c292595f5"
+                    "reference": "0a499bf1281024bf2e1d913f1aec9ceeb4932498"
                 },
                 "require": {
                     "mygento/shipment": "dev-MYGMOD-3",
@@ -5374,7 +5374,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-08-10T16:03:45+00:00",
+                "time": "2017-08-14T16:38:09+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -12962,14 +12962,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "1.5.1": {
                 "name": "mygento/ocourier",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "a307ddf6a3743dd5fcd3be47846de2dc5d96d8cc"
+                    "reference": "e3634bcd1edd10e4ba222a307ddc10bdcbd232df"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -12984,7 +12984,54 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-11T09:06:20+00:00",
+                "time": "2017-08-15T15:54:33+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Ocourier shipping extension",
+                "homepage": "http://www.mygento.ru/modules/ocourier.html",
+                "keywords": [
+                    "magento",
+                    "ocourier",
+                    "ozon",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/ocourier",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ocourier.git",
+                    "reference": "e3634bcd1edd10e4ba222a307ddc10bdcbd232df"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "2.*",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-08-15T15:54:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15075,6 +15122,49 @@
                     "shipping"
                 ]
             },
+            "1.1.0": {
+                "name": "mygento/ponyexpress",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/ponyexpress",
+                    "reference": "d4cfdcdd384fea54e7a95d986b0db4e2604d83aa"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*"
+                },
+                "time": "2017-08-15T15:30:58+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "https://www.mygento.ru/"
+                    }
+                ],
+                "description": "Module module",
+                "homepage": "https://www.mygento.ru/modules/ponyexpress.html",
+                "keywords": [
+                    "magento",
+                    "shipping"
+                ]
+            },
             "2.0.x-dev": {
                 "name": "mygento/ponyexpress",
                 "version": "2.0.x-dev",
@@ -15123,52 +15213,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "84e24c4212346a49bcfe55d5f5b943d0954a5022"
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "3.*"
-                },
-                "require-dev": {
-                    "jakub-onderka/php-console-highlighter": "0.*",
-                    "jakub-onderka/php-parallel-lint": "0.*",
-                    "magento-ecg/coding-standard": "dev-master",
-                    "mygento/coding-standard": "1.*",
-                    "phpmd/phpmd": "@stable",
-                    "sebastian/phpcpd": "*",
-                    "sebastian/phpdcd": "*",
-                    "squizlabs/php_codesniffer": "2.*"
-                },
-                "time": "2017-07-12T12:21:10+00:00",
-                "type": "magento-module",
-                "extra": {
-                    "magento-root-dir": ".",
-                    "with-bootstrap-patch": false
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mygento",
-                        "email": "connect@mygento.net",
-                        "homepage": "https://www.mygento.ru/"
-                    }
-                ],
-                "description": "Module module",
-                "homepage": "https://www.mygento.ru/modules/ponyexpress.html",
-                "keywords": [
-                    "magento",
-                    "shipping"
-                ]
-            },
-            "dev-ELC-72-ponyexpress-FZ54": {
-                "name": "mygento/ponyexpress",
-                "version": "dev-ELC-72-ponyexpress-FZ54",
-                "version_normalized": "dev-ELC-72-ponyexpress-FZ54",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "640f7d27355327abbfe0814b6f961ea8d19cd426"
+                    "reference": "d4cfdcdd384fea54e7a95d986b0db4e2604d83aa"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -15181,7 +15226,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-04T13:07:24+00:00",
+                "time": "2017-08-15T15:30:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19639,7 +19684,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "b34ecbdaabafda032de6fc75b335019d2bfdb761"
+                    "reference": "8c8baa72b4e733943583538f80e1f6c3a0772ca0"
                 },
                 "require": {
                     "magento/framework": "100.*",
@@ -19656,7 +19701,7 @@
                     "mygento/payment": "dev-m2",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2017-06-23T08:28:37+00:00",
+                "time": "2017-08-14T13:12:45+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
