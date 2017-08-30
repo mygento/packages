@@ -2696,7 +2696,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "5a0dad82f291aba478cec99b0f93d8b620f3cf97"
+                    "reference": "c7bb271fe705ea4f8295e0d8ea15c7d543fd0137"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2711,7 +2711,58 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-15 15:51:35",
+                "time": "2017-08-30 14:52:08",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "https://www.mygento.ru/"
+                    },
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Boxberry integration",
+                "homepage": "https://www.mygento.ru/modules/boxberry.html",
+                "keywords": [
+                    "boxberry",
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "dev-MYGOD-54-BoxBugs": {
+                "name": "mygento/boxberry",
+                "version": "dev-MYGOD-54-BoxBugs",
+                "version_normalized": "dev-MYGOD-54-BoxBugs",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/boxberry.git",
+                    "reference": "77cf5b2b7d7e98607382ad241bba90bfa8763c94"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-08-28 14:40:06",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5409,16 +5460,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/dpd",
-                    "reference": "84b5709a776e7597ec4370d811d06ca6258ee61a"
+                    "reference": "9cdd6f64a8259ed249f05075100de1096b65b045"
                 },
                 "require": {
-                    "mygento/shipment": "dev-MYGMOD-3",
+                    "mygento/shipment": "2.*",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-08-25 09:05:54",
+                "time": "2017-08-30 15:40:26",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
