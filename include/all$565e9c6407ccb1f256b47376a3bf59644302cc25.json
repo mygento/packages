@@ -616,6 +616,52 @@
                     "magento",
                     "payment"
                 ]
+            },
+            "dev-INT-67-FZ54": {
+                "name": "mygento/alfabank",
+                "version": "dev-INT-67-FZ54",
+                "version_normalized": "dev-INT-67-FZ54",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/alfabank",
+                    "reference": "cb8c72520d692ef5c1405b9cacf471dabe11a95f"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-08-30 16:43:41",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.ru",
+                        "homepage": "http://www.mygento.ru/"
+                    }
+                ],
+                "description": "Alfabank payment module",
+                "homepage": "http://www.mygento.ru/modules/bank-alfabank.html",
+                "keywords": [
+                    "alfabank",
+                    "magento",
+                    "payment"
+                ]
             }
         },
         "mygento/avangard": {
@@ -2332,6 +2378,57 @@
                     "shipping"
                 ]
             },
+            "1.4.22": {
+                "name": "mygento/boxberry",
+                "version": "1.4.22",
+                "version_normalized": "1.4.22.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/boxberry.git",
+                    "reference": "4222b740e68e45b55bb38e409d681066643f8e88"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-08-31 13:46:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "https://www.mygento.ru/"
+                    },
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Boxberry integration",
+                "homepage": "https://www.mygento.ru/modules/boxberry.html",
+                "keywords": [
+                    "boxberry",
+                    "magento",
+                    "shipping"
+                ]
+            },
             "1.4.3": {
                 "name": "mygento/boxberry",
                 "version": "1.4.3",
@@ -2696,7 +2793,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "c7bb271fe705ea4f8295e0d8ea15c7d543fd0137"
+                    "reference": "4222b740e68e45b55bb38e409d681066643f8e88"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2711,7 +2808,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-30 14:52:08",
+                "time": "2017-08-31 13:46:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2747,7 +2844,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "77cf5b2b7d7e98607382ad241bba90bfa8763c94"
+                    "reference": "23496a706ab6cb8b14c551625edc8e7215d573c7"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2762,7 +2859,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-28 14:40:06",
+                "time": "2017-08-31 11:59:07",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4334,6 +4431,108 @@
                 "homepage": "https://bitbucket.org/mygento/cdek"
             }
         },
+        "mygento/creditline": {
+            "2.0.0": {
+                "name": "mygento/creditline",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/creditline",
+                    "reference": "9cd9cec06a3c757485c7a3b92254a3a1683d8d00"
+                },
+                "require": {
+                    "mygento/payment": "2.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "require-dev": {
+                    "mygento/coding-standard": "2.*"
+                },
+                "time": "2017-08-31 14:01:30",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mygento\\Creditline\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "https://www.mygento.ru/"
+                    }
+                ],
+                "description": "Creditline Integration to Magento2",
+                "homepage": "https://bitbucket.org/mygento/creditline",
+                "keywords": [
+                    "creditline",
+                    "magento",
+                    "payment"
+                ]
+            },
+            "dev-m2": {
+                "name": "mygento/creditline",
+                "version": "dev-m2",
+                "version_normalized": "dev-m2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/creditline",
+                    "reference": "9cd9cec06a3c757485c7a3b92254a3a1683d8d00"
+                },
+                "require": {
+                    "mygento/payment": "2.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "require-dev": {
+                    "mygento/coding-standard": "2.*"
+                },
+                "time": "2017-08-31 14:01:30",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mygento\\Creditline\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "https://www.mygento.ru/"
+                    }
+                ],
+                "description": "Creditline Integration to Magento2",
+                "homepage": "https://bitbucket.org/mygento/creditline",
+                "keywords": [
+                    "creditline",
+                    "magento",
+                    "payment"
+                ]
+            }
+        },
         "mygento/dellin": {
             "3.0.0": {
                 "name": "mygento/dellin",
@@ -5460,7 +5659,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/dpd",
-                    "reference": "9cdd6f64a8259ed249f05075100de1096b65b045"
+                    "reference": "e44171df116b5d65dea12d98788bca4dfcc457a0"
                 },
                 "require": {
                     "mygento/shipment": "2.*",
@@ -5469,7 +5668,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-08-30 15:40:26",
+                "time": "2017-08-30 19:15:12",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
