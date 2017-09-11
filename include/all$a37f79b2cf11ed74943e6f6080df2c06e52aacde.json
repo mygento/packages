@@ -2429,6 +2429,57 @@
                     "shipping"
                 ]
             },
+            "1.4.23": {
+                "name": "mygento/boxberry",
+                "version": "1.4.23",
+                "version_normalized": "1.4.23.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/boxberry.git",
+                    "reference": "85eaba256d0947723c5fbdf0a882f812a80edabc"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "magento-ecg/coding-standard": "dev-master",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-09-11 08:38:05",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "https://www.mygento.ru/"
+                    },
+                    {
+                        "name": "Nikita Tarasov",
+                        "email": "nikita@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "Boxberry integration",
+                "homepage": "https://www.mygento.ru/modules/boxberry.html",
+                "keywords": [
+                    "boxberry",
+                    "magento",
+                    "shipping"
+                ]
+            },
             "1.4.3": {
                 "name": "mygento/boxberry",
                 "version": "1.4.3",
@@ -2793,7 +2844,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "4222b740e68e45b55bb38e409d681066643f8e88"
+                    "reference": "85eaba256d0947723c5fbdf0a882f812a80edabc"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2808,7 +2859,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-31 13:46:00",
+                "time": "2017-09-11 08:38:05",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4316,7 +4367,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/cdek",
-                    "reference": "aba9d4655ffb1c2a69e845e4375c30ebf4cb2aea"
+                    "reference": "04ac5e39e248b3a046c59cd4c4d891665f4161d8"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -4329,7 +4380,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-25 10:55:06",
+                "time": "2017-09-11 10:29:47",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14391,6 +14442,56 @@
                 ],
                 "description": "PEK Russia shipping module",
                 "homepage": "http://www.mygento.ru/modules/pek.html",
+                "keywords": [
+                    "magento",
+                    "pek",
+                    "shipping"
+                ]
+            },
+            "dev-m2": {
+                "name": "mygento/pek",
+                "version": "dev-m2",
+                "version_normalized": "dev-m2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/pek",
+                    "reference": "5e9c052603771dab1aa4f5dfc0f3e13a7373f8b3"
+                },
+                "require": {
+                    "mygento/shipment": "2.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "require-dev": {
+                    "mygento/coding-standard": "2.*"
+                },
+                "time": "2017-09-11 08:37:18",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mygento\\Pek\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Aleksey Goguev",
+                        "email": "a.goguev@mygento.net",
+                        "homepage": "http://www.mygento.net/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "https://www.mygento.ru/"
+                    }
+                ],
+                "description": "PEK Integration to Magento2",
+                "homepage": "https://bitbucket.org/mygento/pek",
                 "keywords": [
                     "magento",
                     "pek",
