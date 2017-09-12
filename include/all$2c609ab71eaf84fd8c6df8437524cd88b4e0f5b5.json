@@ -14543,7 +14543,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pek",
-                    "reference": "5e9c052603771dab1aa4f5dfc0f3e13a7373f8b3"
+                    "reference": "88764d9d9610720142d50c7a7681542031dbd20e"
                 },
                 "require": {
                     "mygento/shipment": "2.*",
@@ -14552,7 +14552,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-09-11 08:37:18",
+                "time": "2017-09-12 16:37:44",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
