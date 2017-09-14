@@ -5798,7 +5798,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/dpd",
-                    "reference": "3a8e11d92e22274a9308e351303475b6ba018c8c"
+                    "reference": "3432ebeba9cc50d95a34f183b179c554cb4bcdb9"
                 },
                 "require": {
                     "mygento/shipment": "2.*",
@@ -5807,7 +5807,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-09-05 08:56:56",
+                "time": "2017-09-13 11:24:55",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -14543,7 +14543,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pek",
-                    "reference": "88764d9d9610720142d50c7a7681542031dbd20e"
+                    "reference": "faab2de0e1af0dd7d2f2e0fd284de5197a719a49"
                 },
                 "require": {
                     "mygento/shipment": "2.*",
@@ -14552,7 +14552,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-09-12 16:37:44",
+                "time": "2017-09-13 17:02:11",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -21118,7 +21118,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "59b605c3e4a9012b35e577b0eb77220e8b38ef3e"
+                    "reference": "b891a378b4c24dfd980d48f15ba2f3aa74344095"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -21133,7 +21133,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-19 14:55:15",
+                "time": "2017-09-14 12:45:21",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
