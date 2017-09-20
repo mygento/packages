@@ -8,13 +8,13 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "21ae061c86c06820615e9fd54e372989cb8ed9df"
+                    "reference": "83c456bc8cb2fa6ac5bfd071935d6fa61fe0c3fd"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2013-01-22 23:27:51",
+                "time": "2013-01-22T23:27:51+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -34,13 +34,13 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "585431d136df37bdb4dfee36cebfc77b099aa213"
+                    "reference": "696cec809040fd2bd6319a88f99725409b79c231"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "phpunit/phpunit": "3.7.*"
                 },
-                "time": "2013-01-31 23:23:12",
+                "time": "2013-01-31T23:23:12+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -60,13 +60,13 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "57d3415166dd75f0e767a5ce238a101ef814e84f"
+                    "reference": "62c4bdf68e72f5ab27fd6862e1568b32c95a8901"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "phpunit/phpunit": "4.1.*"
                 },
-                "time": "2014-06-23 10:06:50",
+                "time": "2014-06-23T10:06:50+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -86,13 +86,13 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "3e82ed7e429c9cdcb7acc33d40403a3540434f8b"
+                    "reference": "1cd444fe7c1e50525f59f2c65a720118ab096a86"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "phpunit/phpunit": "4.1.*"
                 },
-                "time": "2014-08-08 13:17:12",
+                "time": "2014-08-08T13:17:12+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -112,7 +112,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "80116f9b0b17c7b60c2ff2ca01278fc18e9535c3"
+                    "reference": "c2c493f46ef039d6d398a1ecf50817ab3f0eaf1e"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
@@ -121,7 +121,7 @@
                 "replace": {
                     "ivanchepurnyi/ecomdev_phpunit": "*"
                 },
-                "time": "2014-10-15 15:05:26",
+                "time": "2014-10-15T15:05:26+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -141,7 +141,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "465d558c4bd70737bdd576251d37c24713da977c"
+                    "reference": "e9104eec735542504ed27ac97ef2e3cbff515ce8"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
@@ -150,7 +150,7 @@
                 "replace": {
                     "ivanchepurnyi/ecomdev_phpunit": "*"
                 },
-                "time": "2014-10-24 00:58:37",
+                "time": "2014-10-24T00:58:37+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -170,7 +170,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "3d1f512c912cecefce3852d477098f954f8e08de"
+                    "reference": "11a82d7670c354fa24b930d2fc9e414333e62606"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
@@ -179,7 +179,7 @@
                 "replace": {
                     "ivanchepurnyi/ecomdev_phpunit": "*"
                 },
-                "time": "2014-10-29 18:07:13",
+                "time": "2014-10-29T18:07:13+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -199,7 +199,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/EcomDev/EcomDev_PHPUnit.git",
-                    "reference": "16ba4abbaee95ccc45b4543da6a9d30a5d0b34f5"
+                    "reference": "01d53b80e9f8300251d345c32936a4162c9bd76f"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
@@ -208,7 +208,7 @@
                 "replace": {
                     "ivanchepurnyi/ecomdev_phpunit": "*"
                 },
-                "time": "2014-10-31 09:24:26",
+                "time": "2014-10-31T09:24:26+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -237,7 +237,7 @@
                 "replace": {
                     "ivanchepurnyi/ecomdev_phpunit": "*"
                 },
-                "time": "2014-10-31 09:23:50",
+                "time": "2014-10-31T09:23:50+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -266,7 +266,7 @@
                 "replace": {
                     "ivanchepurnyi/ecomdev_phpunit": "*"
                 },
-                "time": "2017-05-11 09:32:45",
+                "time": "2017-05-11T09:32:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -292,7 +292,7 @@
                     "magento-hackathon/magento-composer-installer": "*",
                     "phpunit/phpunit": "3.7.*"
                 },
-                "time": "2013-03-22 10:27:31",
+                "time": "2013-03-22T10:27:31+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -318,7 +318,7 @@
                     "magento-hackathon/magento-composer-installer": "*",
                     "phpunit/phpunit": "3.7.*"
                 },
-                "time": "2014-02-25 08:39:46",
+                "time": "2014-02-25T08:39:46+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -344,7 +344,7 @@
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2013-01-04 00:09:59",
+                "time": "2013-01-04T00:09:59+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -380,7 +380,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-08 22:45:52",
+                "time": "2015-06-08T22:45:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -413,7 +413,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-16 11:27:18",
+                "time": "2015-07-16T11:27:18+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -458,7 +458,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-16 12:54:03",
+                "time": "2015-07-16T12:54:03+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -503,7 +503,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-29 16:15:07",
+                "time": "2016-02-29T16:15:07+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -548,7 +548,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-01 07:21:52",
+                "time": "2016-03-01T07:21:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -593,7 +593,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-05 13:33:30",
+                "time": "2017-09-05T13:33:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -639,7 +639,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-05 13:33:30",
+                "time": "2017-09-05T13:33:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -686,7 +686,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-06 09:30:39",
+                "time": "2015-04-06T09:30:39+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -704,7 +704,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/avangard",
-                    "reference": "990cac7fceb9133245a7d2944c74f6c62c905c6a"
+                    "reference": "2729ba78acd91bdf6f8ce9a102b75aa382f3032e"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -719,7 +719,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-06 11:39:00",
+                "time": "2016-07-06T11:39:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -753,7 +753,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-06 23:50:08",
+                "time": "2016-07-06T23:50:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -792,7 +792,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-25 05:31:58",
+                "time": "2016-11-25T05:31:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -831,7 +831,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-25 05:31:58",
+                "time": "2016-11-25T05:31:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -872,7 +872,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-02 10:23:44",
+                "time": "2015-06-02T10:23:44+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -922,7 +922,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-03 12:44:41",
+                "time": "2015-06-03T12:44:41+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -972,7 +972,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-16 08:47:08",
+                "time": "2015-10-16T08:47:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1023,7 +1023,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-15 13:44:31",
+                "time": "2015-06-15T13:44:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1074,7 +1074,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-23 18:58:17",
+                "time": "2015-06-23T18:58:17+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1125,7 +1125,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-09 21:20:08",
+                "time": "2015-07-09T21:20:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1176,7 +1176,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-03 11:43:51",
+                "time": "2015-08-03T11:43:51+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1227,7 +1227,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-03 14:28:46",
+                "time": "2015-08-03T14:28:46+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1278,7 +1278,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-05 11:12:08",
+                "time": "2015-08-05T11:12:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1329,7 +1329,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-21 08:56:10",
+                "time": "2015-08-21T08:56:10+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1380,7 +1380,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-27 12:15:53",
+                "time": "2015-08-27T12:15:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1431,7 +1431,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-11-24 13:48:50",
+                "time": "2015-11-24T13:48:50+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1482,7 +1482,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-11 11:22:22",
+                "time": "2015-12-11T11:22:22+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1533,7 +1533,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-18 11:01:39",
+                "time": "2015-12-18T11:01:39+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1584,7 +1584,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-30 07:58:24",
+                "time": "2016-03-30T07:58:24+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1635,7 +1635,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-16 16:45:52",
+                "time": "2016-05-16T16:45:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1686,7 +1686,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-18 11:17:02",
+                "time": "2016-05-18T11:17:02+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1737,7 +1737,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-18 10:04:36",
+                "time": "2016-10-18T10:04:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1788,7 +1788,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-24 08:54:20",
+                "time": "2016-10-24T08:54:20+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1839,7 +1839,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-09 11:47:07",
+                "time": "2016-11-09T11:47:07+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1890,7 +1890,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-24 14:06:00",
+                "time": "2016-11-24T14:06:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1941,7 +1941,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-06 09:27:36",
+                "time": "2016-12-06T09:27:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -1992,7 +1992,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-07 09:38:45",
+                "time": "2016-12-07T09:38:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2043,7 +2043,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-08 14:10:09",
+                "time": "2016-12-08T14:10:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2094,7 +2094,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-13 08:14:09",
+                "time": "2016-12-13T08:14:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2145,7 +2145,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-27 10:14:05",
+                "time": "2017-01-27T10:14:05+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2196,7 +2196,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-22 14:46:40",
+                "time": "2017-03-22T14:46:40+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2247,7 +2247,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-18 15:13:39",
+                "time": "2016-05-18T15:13:39+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2298,7 +2298,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-23 11:14:36",
+                "time": "2017-03-23T11:14:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2334,7 +2334,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/boxberry.git",
-                    "reference": "4e6f1d0d9c30bb422f2409b67c5bb3478b1eecdb"
+                    "reference": "5a0dad82f291aba478cec99b0f93d8b620f3cf97"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -2349,7 +2349,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-15 15:51:35",
+                "time": "2017-08-15T15:51:35+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2400,7 +2400,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-31 13:46:00",
+                "time": "2017-08-31T13:46:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2451,7 +2451,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-11 08:38:05",
+                "time": "2017-09-11T08:38:05+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2502,7 +2502,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-12 08:32:27",
+                "time": "2016-07-12T08:32:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2553,7 +2553,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-13 10:37:23",
+                "time": "2016-07-13T10:37:23+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2604,7 +2604,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-17 13:09:03",
+                "time": "2016-08-17T13:09:03+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2655,7 +2655,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-22 11:35:30",
+                "time": "2016-08-22T11:35:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2706,7 +2706,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-06 10:51:38",
+                "time": "2016-09-06T10:51:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2757,7 +2757,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-09 08:17:00",
+                "time": "2016-09-09T08:17:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2808,7 +2808,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-13 08:07:27",
+                "time": "2016-09-13T08:07:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2859,7 +2859,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-11 08:38:05",
+                "time": "2017-09-11T08:38:05+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2910,7 +2910,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-31 11:59:07",
+                "time": "2017-08-31T11:59:07+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -2961,7 +2961,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-21 08:56:10",
+                "time": "2015-08-21T08:56:10+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3014,7 +3014,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-14 08:34:26",
+                "time": "2015-10-14T08:34:26+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3048,7 +3048,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-16 16:03:18",
+                "time": "2015-12-16T16:03:18+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3081,7 +3081,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-06 11:00:53",
+                "time": "2015-04-06T11:00:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -3114,7 +3114,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-28 14:09:15",
+                "time": "2015-04-28T14:09:15+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -3147,7 +3147,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-05-22 12:34:44",
+                "time": "2015-05-22T12:34:44+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -3180,7 +3180,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-17 12:53:59",
+                "time": "2015-07-17T12:53:59+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -3213,7 +3213,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-04 19:02:36",
+                "time": "2015-10-04T19:02:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3247,7 +3247,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-14 09:57:58",
+                "time": "2015-10-14T09:57:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3292,7 +3292,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-16 16:04:38",
+                "time": "2015-12-16T16:04:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3337,7 +3337,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-21 12:32:57",
+                "time": "2015-12-21T12:32:57+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3382,7 +3382,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-29 12:23:00",
+                "time": "2016-04-29T12:23:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3428,7 +3428,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-04 20:10:06",
+                "time": "2016-05-04T20:10:06+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3474,7 +3474,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-15 08:43:11",
+                "time": "2016-08-15T08:43:11+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3520,7 +3520,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-21 09:25:29",
+                "time": "2017-03-21T09:25:29+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3566,7 +3566,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-29 16:21:52",
+                "time": "2017-03-29T16:21:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3612,7 +3612,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-04-07 15:02:44",
+                "time": "2017-04-07T15:02:44+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3658,7 +3658,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-04-12 08:45:59",
+                "time": "2017-04-12T08:45:59+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3704,7 +3704,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-05-19 15:35:02",
+                "time": "2017-05-19T15:35:02+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3748,7 +3748,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-07-28 10:59:42",
+                "time": "2017-07-28T10:59:42+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3794,7 +3794,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-06 08:36:30",
+                "time": "2016-05-06T08:36:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3840,7 +3840,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-10 11:32:38",
+                "time": "2016-05-10T11:32:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3886,7 +3886,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-11 13:20:27",
+                "time": "2016-05-11T13:20:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3932,7 +3932,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-16 18:25:55",
+                "time": "2016-05-16T18:25:55+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -3978,7 +3978,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-17 19:19:07",
+                "time": "2016-05-17T19:19:07+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4024,7 +4024,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-24 12:25:15",
+                "time": "2016-05-24T12:25:15+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4070,7 +4070,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-14 11:36:00",
+                "time": "2016-06-14T11:36:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4116,7 +4116,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-07 10:11:03",
+                "time": "2016-07-07T10:11:03+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4160,7 +4160,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-07-31 18:16:25",
+                "time": "2017-07-31T18:16:25+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4204,7 +4204,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-03 14:20:16",
+                "time": "2017-08-03T14:20:16+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4248,7 +4248,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-10 07:50:38",
+                "time": "2017-08-10T07:50:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4292,7 +4292,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-11 09:49:31",
+                "time": "2017-08-11T09:49:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4336,7 +4336,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-25 10:55:06",
+                "time": "2017-08-25T10:55:06+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4380,7 +4380,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-09-11 10:29:47",
+                "time": "2017-09-11T10:29:47+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4424,7 +4424,51 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-09-11 12:53:31",
+                "time": "2017-09-11T12:53:31+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "CDEK shipping module",
+                "homepage": "https://www.mygento.ru/modules/cdek-edostavka.html",
+                "keywords": [
+                    "cdek",
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "3.2.0.7": {
+                "name": "mygento/cdek",
+                "version": "3.2.0.7",
+                "version_normalized": "3.2.0.7",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/cdek",
+                    "reference": "0abdfd041b7f1b1b20ebf17530111aa91557a21b"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*"
+                },
+                "time": "2017-09-18T14:25:48+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4455,7 +4499,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/cdek",
-                    "reference": "5d3928bbcdcaab3ca6e3cef46dc6f8e8edcc647b"
+                    "reference": "0abdfd041b7f1b1b20ebf17530111aa91557a21b"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -4468,7 +4512,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-09-11 12:53:31",
+                "time": "2017-09-18T14:25:48+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4512,7 +4556,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-07-28 09:21:33",
+                "time": "2017-07-28T09:21:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4558,7 +4602,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-08 11:12:06",
+                "time": "2015-06-08T11:12:06+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -4587,7 +4631,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-08-31 14:01:30",
+                "time": "2017-08-31T14:01:30+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -4637,7 +4681,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-08-31 14:01:30",
+                "time": "2017-08-31T14:01:30+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -4695,7 +4739,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-05-02 12:53:17",
+                "time": "2015-05-02T12:53:17+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -4728,7 +4772,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-02 05:54:57",
+                "time": "2016-11-02T05:54:57+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4773,7 +4817,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-06 17:40:54",
+                "time": "2016-11-06T17:40:54+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4818,7 +4862,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-02 20:49:29",
+                "time": "2015-06-02T20:49:29+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -4862,7 +4906,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-14 22:22:43",
+                "time": "2015-06-14T22:22:43+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -4906,7 +4950,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-25 08:05:37",
+                "time": "2015-08-25T08:05:37+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4951,7 +4995,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-11-30 11:32:19",
+                "time": "2015-11-30T11:32:19+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -4996,7 +5040,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-18 12:39:04",
+                "time": "2015-12-18T12:39:04+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5041,7 +5085,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-02 12:31:49",
+                "time": "2016-08-02T12:31:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5086,7 +5130,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-04 09:32:25",
+                "time": "2016-08-04T09:32:25+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5131,7 +5175,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-06 17:40:54",
+                "time": "2016-11-06T17:40:54+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5176,7 +5220,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-21 09:53:18",
+                "time": "2015-04-21T09:53:18+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -5207,7 +5251,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-03-20 13:30:17",
+                "time": "2015-03-20T13:30:17+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -5236,7 +5280,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-03-31 10:26:14",
+                "time": "2015-03-31T10:26:14+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -5268,7 +5312,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-05 17:47:01",
+                "time": "2015-04-05T17:47:01+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -5300,7 +5344,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-08 10:33:28",
+                "time": "2015-04-08T10:33:28+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -5333,7 +5377,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-28 14:09:43",
+                "time": "2015-04-28T14:09:43+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -5366,7 +5410,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-10 09:20:15",
+                "time": "2015-07-10T09:20:15+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5412,7 +5456,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-10 09:39:47",
+                "time": "2015-07-10T09:39:47+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5458,7 +5502,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-10 10:40:01",
+                "time": "2015-07-10T10:40:01+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5504,7 +5548,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-27 13:57:01",
+                "time": "2015-08-27T13:57:01+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5550,7 +5594,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-23 09:45:13",
+                "time": "2015-09-23T09:45:13+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5596,7 +5640,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-10 13:26:43",
+                "time": "2016-02-10T13:26:43+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5642,7 +5686,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-15 14:17:22",
+                "time": "2016-12-15T14:17:22+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5688,7 +5732,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-04 14:33:00",
+                "time": "2017-09-04T14:33:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5734,7 +5778,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-04 14:33:00",
+                "time": "2017-09-04T14:33:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -5780,7 +5824,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-28 14:08:28",
+                "time": "2015-04-28T14:08:28+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -5798,16 +5842,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/dpd",
-                    "reference": "3432ebeba9cc50d95a34f183b179c554cb4bcdb9"
+                    "reference": "0018cab5e696a823b428fbd34772a5cd6f6f8e94"
                 },
                 "require": {
-                    "mygento/shipment": "2.*",
+                    "mygento/shipment": "dev-m2.1",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-09-13 11:24:55",
+                "time": "2017-09-18T10:35:35+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -5852,7 +5896,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "9a0eeea7c5c0afbe20c7c6ebb7f819401453a9de"
                 },
-                "time": "2016-08-18 15:15:30",
+                "time": "2016-08-18T15:15:30+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -5953,7 +5997,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "e594b6f89b13228eb69ef8d262d4918005e00cab"
                 },
-                "time": "2016-10-25 09:04:52",
+                "time": "2016-10-25T09:04:52+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6054,7 +6098,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "408a0524ad7d05977289c8ef0ee8060b97895f62"
                 },
-                "time": "2016-10-25 09:27:03",
+                "time": "2016-10-25T09:27:03+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6155,7 +6199,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "d7c5924b6aaa1915dbeea681b20c4cb40c6ec7a2"
                 },
-                "time": "2016-10-25 09:28:18",
+                "time": "2016-10-25T09:28:18+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6256,7 +6300,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "5b9962b8b7a192ab15570d54b36b58a98a89c656"
                 },
-                "time": "2017-03-12 15:20:59",
+                "time": "2017-03-12T15:20:59+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6357,7 +6401,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "d2de55e86ae0cf3f23ac98d82e6d2dea7245ae9a"
                 },
-                "time": "2017-06-02 09:55:49",
+                "time": "2017-06-02T09:55:49+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6458,7 +6502,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "a0d65f4f136e955be1134612a77bdc636dd415ff"
                 },
-                "time": "2017-08-02 08:03:55",
+                "time": "2017-08-02T08:03:55+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6559,7 +6603,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "1778c2bcf49d51d95ffc38663fe0520d1615a509"
                 },
-                "time": "2016-10-25 09:08:51",
+                "time": "2016-10-25T09:08:51+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6660,7 +6704,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "a55badc8e4742946207e236074ef03754c54ce25"
                 },
-                "time": "2016-10-25 09:11:39",
+                "time": "2016-10-25T09:11:39+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6761,7 +6805,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "42ce31ddeb86bda7ff54df3678490aa42548e4d6"
                 },
-                "time": "2016-10-25 09:16:28",
+                "time": "2016-10-25T09:16:28+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6862,7 +6906,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "2135c797f1fd6d7f2783fc985d5d3502c5185355"
                 },
-                "time": "2016-10-25 09:18:24",
+                "time": "2016-10-25T09:18:24+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -6963,7 +7007,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "70f28a710bb2add6f9c72fe1d5556e0fde82cb5f"
                 },
-                "time": "2016-10-25 09:20:09",
+                "time": "2016-10-25T09:20:09+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7064,7 +7108,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "7cad744789d789a284801414bb1c93c1bd9eddf7"
                 },
-                "time": "2016-10-25 09:21:31",
+                "time": "2016-10-25T09:21:31+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7165,7 +7209,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "ece303c7f76a23690616c0c749ff9eec65ad7c99"
                 },
-                "time": "2016-10-25 09:23:33",
+                "time": "2016-10-25T09:23:33+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7266,7 +7310,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "555a3b9bfd99e8fe59404aa788142e9d5cd3269f"
                 },
-                "time": "2016-10-25 09:24:28",
+                "time": "2016-10-25T09:24:28+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7367,7 +7411,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "a0d65f4f136e955be1134612a77bdc636dd415ff"
                 },
-                "time": "2017-08-02 08:03:55",
+                "time": "2017-08-02T08:03:55+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7468,7 +7512,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "b8a85a6cafaeb4511775e687846e4fbd232df95e"
                 },
-                "time": "2015-08-26 13:00:42",
+                "time": "2015-08-26T13:00:42+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7569,7 +7613,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "9b00703ffc965bf52af2aeb6d11e0dc743c34657"
                 },
-                "time": "2016-10-25 09:31:19",
+                "time": "2016-10-25T09:31:19+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7670,7 +7714,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "a64f94a29a2b8e6fc0be3c7c82a755a459282c61"
                 },
-                "time": "2017-03-12 15:23:09",
+                "time": "2017-03-12T15:23:09+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7769,9 +7813,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/enterprise.git",
-                    "reference": "67fee3a18cf47306a518f5489171f666a264b72f"
+                    "reference": "df2010b35e6f040c63a0b38ddcb8ea632f56619d"
                 },
-                "time": "2017-06-02 10:14:41",
+                "time": "2017-06-02T10:14:41+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7872,7 +7916,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "e9e5d4590f5ac42612cbaf26f2330cba07189769"
                 },
-                "time": "2017-08-02 08:11:13",
+                "time": "2017-08-02T08:11:13+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7973,7 +8017,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "19452cec6d433bb46abfbffc01cefe8b6731071a"
                 },
-                "time": "2016-10-25 09:32:56",
+                "time": "2016-10-25T09:32:56+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8074,7 +8118,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "e31a0f182cd1e14e201af5a8c35176293e47ab98"
                 },
-                "time": "2016-10-25 09:35:02",
+                "time": "2016-10-25T09:35:02+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8175,7 +8219,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "fe841ede6acc487e827c01fbc27b5ce7c13aa529"
                 },
-                "time": "2016-10-25 09:36:37",
+                "time": "2016-10-25T09:36:37+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8276,7 +8320,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "e114275cf004f9510f8a22ba14a7826c56338c22"
                 },
-                "time": "2016-10-25 09:37:41",
+                "time": "2016-10-25T09:37:41+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8377,7 +8421,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "08887b28ea2384c036c76e33f4a9ac7c0ced8496"
                 },
-                "time": "2016-10-25 09:40:28",
+                "time": "2016-10-25T09:40:28+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8478,7 +8522,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "e4aa14a3e148fbecf1a554544b978506e9b9fc80"
                 },
-                "time": "2016-10-25 09:41:29",
+                "time": "2016-10-25T09:41:29+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8579,7 +8623,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "615b11f712920155b741de0096d698977a00faf5"
                 },
-                "time": "2016-10-25 09:42:43",
+                "time": "2016-10-25T09:42:43+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8680,7 +8724,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "9b10389a9b128c1b09a0b0d240da810e7268e0a1"
                 },
-                "time": "2016-10-25 09:44:42",
+                "time": "2016-10-25T09:44:42+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8781,7 +8825,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "e9e5d4590f5ac42612cbaf26f2330cba07189769"
                 },
-                "time": "2017-08-02 08:11:13",
+                "time": "2017-08-02T08:11:13+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8882,7 +8926,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "8e445a3803e01c88000a144bf5dc9ba1d3be1adf"
                 },
-                "time": "2015-08-26 12:55:30",
+                "time": "2015-08-26T12:55:30+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8983,7 +9027,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "8e445a3803e01c88000a144bf5dc9ba1d3be1adf"
                 },
-                "time": "2015-08-26 12:55:30",
+                "time": "2015-08-26T12:55:30+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9084,7 +9128,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "64dfeb7f093200137aabdf74c3f1909a51cfaac1"
                 },
-                "time": "2015-08-26 12:50:49",
+                "time": "2015-08-26T12:50:49+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9185,7 +9229,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "64dfeb7f093200137aabdf74c3f1909a51cfaac1"
                 },
-                "time": "2015-08-26 12:50:49",
+                "time": "2015-08-26T12:50:49+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9286,7 +9330,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "2706866c0fc6c9f79866c7f46d2821bbfd7e3d74"
                 },
-                "time": "2015-05-06 12:42:15",
+                "time": "2015-05-06T12:42:15+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9387,7 +9431,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "773cb9bf6d94da653bbe075a85933a9d8339c411"
                 },
-                "time": "2015-08-19 13:00:57",
+                "time": "2015-08-19T13:00:57+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9488,7 +9532,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "4dda791e3952272525c5ca4394428f2e3c08cba0"
                 },
-                "time": "2015-08-26 12:38:10",
+                "time": "2015-08-26T12:38:10+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9593,7 +9637,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "e724c9230f33135f25d7bcd45b1a3d2cc2e805c4"
                 },
-                "time": "2015-10-27 19:46:08",
+                "time": "2015-10-27T19:46:08+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9698,7 +9742,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "f03aace59437b89a690471a6ad046b20fe3f1b37"
                 },
-                "time": "2016-04-26 09:49:01",
+                "time": "2016-04-26T09:49:01+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9803,7 +9847,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "c830d88d2162242188dc62406b1e8041fa396f6c"
                 },
-                "time": "2016-06-23 08:50:51",
+                "time": "2016-06-23T08:50:51+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -9904,7 +9948,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "e034bf840d1c5f54ec428318a3e1887237e1d3eb"
                 },
-                "time": "2016-10-13 07:33:31",
+                "time": "2016-10-13T07:33:31+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -10005,7 +10049,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "5893c8fdc7ece4ab046cb82b14931be8b3affb33"
                 },
-                "time": "2016-11-15 07:45:51",
+                "time": "2016-11-15T07:45:51+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -10104,9 +10148,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/enterprise.git",
-                    "reference": "73c5cfc1ff77ae497d1b7e2c05651e0db140cffa"
+                    "reference": "46941a2659f22bea9427057a32db9db936d4f839"
                 },
-                "time": "2017-06-02 10:20:51",
+                "time": "2017-06-02T10:20:51+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -10207,7 +10251,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "5ea39a0f8e0ff62ca1a9e271e2140e8ce922b2fa"
                 },
-                "time": "2017-06-02 10:25:15",
+                "time": "2017-06-02T10:25:15+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -10308,7 +10352,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "43c184681aa00cd36b810741b88f23b2c3f26c38"
                 },
-                "time": "2017-08-02 08:24:03",
+                "time": "2017-08-02T08:24:03+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -10409,7 +10453,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "d846d5c1bf9e9ef3fd67f29bdad67c90abd3ee6f"
                 },
-                "time": "2017-08-15 19:49:32",
+                "time": "2017-08-15T19:49:32+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -10510,7 +10554,7 @@
                     "url": "git@bitbucket.org:mygento/enterprise.git",
                     "reference": "d846d5c1bf9e9ef3fd67f29bdad67c90abd3ee6f"
                 },
-                "time": "2017-08-15 19:49:32",
+                "time": "2017-08-15T19:49:32+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -10624,7 +10668,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2015-12-02 08:10:33",
+                "time": "2015-12-02T08:10:33+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -10679,7 +10723,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-04-18 06:44:13",
+                "time": "2016-04-18T06:44:13+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -10734,7 +10778,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-10-13 07:43:15",
+                "time": "2016-10-13T07:43:15+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -10789,7 +10833,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-04-18 06:47:24",
+                "time": "2016-04-18T06:47:24+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -10844,7 +10888,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-05-10 06:54:33",
+                "time": "2016-05-10T06:54:33+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -10899,7 +10943,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-05-22 20:10:40",
+                "time": "2016-05-22T20:10:40+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -10954,7 +10998,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-05-26 10:32:31",
+                "time": "2016-05-26T10:32:31+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -11009,7 +11053,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-10-13 07:43:15",
+                "time": "2016-10-13T07:43:15+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -11065,7 +11109,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-06-23 19:28:44",
+                "time": "2016-06-23T19:28:44+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -11121,7 +11165,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-09-07 20:06:32",
+                "time": "2016-09-07T20:06:32+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -11177,7 +11221,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2016-10-13 07:37:08",
+                "time": "2016-10-13T07:37:08+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -11233,7 +11277,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2017-08-15 19:55:20",
+                "time": "2017-08-15T19:55:20+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -11289,7 +11333,7 @@
                     "sjparkinson/static-review": "~4.1",
                     "squizlabs/php_codesniffer": "1.5.3"
                 },
-                "time": "2017-08-15 19:55:20",
+                "time": "2017-08-15T19:55:20+00:00",
                 "type": "project",
                 "extra": {
                     "magento-force": "override"
@@ -11346,7 +11390,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-30 09:22:36",
+                "time": "2015-04-30T09:22:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -11379,7 +11423,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-30 09:22:36",
+                "time": "2015-04-30T09:22:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -11412,7 +11456,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-30 09:22:36",
+                "time": "2015-04-30T09:22:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -11437,7 +11481,7 @@
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2015-02-18 11:31:31",
+                "time": "2015-02-18T11:31:31+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -11457,7 +11501,7 @@
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2015-02-18 11:31:31",
+                "time": "2015-02-18T11:31:31+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -11486,7 +11530,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-01 09:52:37",
+                "time": "2015-04-01T09:52:37+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -11515,7 +11559,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-01 10:05:36",
+                "time": "2015-04-01T10:05:36+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -11546,7 +11590,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-23 16:25:51",
+                "time": "2015-04-23T16:25:51+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -11581,7 +11625,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-15 12:29:17",
+                "time": "2015-09-15T12:29:17+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11627,7 +11671,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-21 14:03:02",
+                "time": "2015-09-21T14:03:02+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11673,7 +11717,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-09 11:27:12",
+                "time": "2015-10-09T11:27:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11719,7 +11763,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-09 11:27:12",
+                "time": "2015-10-09T11:27:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11765,7 +11809,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-15 12:22:11",
+                "time": "2015-09-15T12:22:11+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11813,7 +11857,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-05-18 21:14:04",
+                "time": "2015-05-18T21:14:04+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-force": true,
@@ -11849,7 +11893,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-22 12:11:17",
+                "time": "2015-06-22T12:11:17+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11894,7 +11938,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-20 11:39:52",
+                "time": "2015-07-20T11:39:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11939,7 +11983,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-23 07:37:36",
+                "time": "2015-07-23T07:37:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -11984,7 +12028,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-11 12:11:30",
+                "time": "2015-08-11T12:11:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12029,7 +12073,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-22 13:19:34",
+                "time": "2015-09-22T13:19:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12074,7 +12118,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-22 14:46:36",
+                "time": "2015-09-22T14:46:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12119,7 +12163,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-06 11:03:27",
+                "time": "2015-10-06T11:03:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12165,7 +12209,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-11-24 08:51:02",
+                "time": "2015-11-24T08:51:02+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12211,7 +12255,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-07 09:47:52",
+                "time": "2016-04-07T09:47:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12258,7 +12302,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-11 08:06:08",
+                "time": "2016-04-11T08:06:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12305,7 +12349,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-13 15:14:51",
+                "time": "2016-04-13T15:14:51+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12352,7 +12396,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-18 12:07:42",
+                "time": "2016-05-18T12:07:42+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12399,7 +12443,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-18 15:12:21",
+                "time": "2016-05-18T15:12:21+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12446,7 +12490,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-18 09:49:55",
+                "time": "2016-10-18T09:49:55+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12493,7 +12537,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-09 12:00:22",
+                "time": "2016-11-09T12:00:22+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12540,7 +12584,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-24 13:56:26",
+                "time": "2016-11-24T13:56:26+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12587,7 +12631,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-25 22:00:08",
+                "time": "2016-11-25T22:00:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12634,7 +12678,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-05 13:37:58",
+                "time": "2016-12-05T13:37:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12681,7 +12725,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-18 11:30:22",
+                "time": "2017-01-18T11:30:22+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12728,7 +12772,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-06 07:29:38",
+                "time": "2016-06-06T07:29:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12775,7 +12819,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-08 11:06:25",
+                "time": "2016-06-08T11:06:25+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12822,7 +12866,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-13 07:17:25",
+                "time": "2016-07-13T07:17:25+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12869,7 +12913,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-13 10:42:33",
+                "time": "2016-07-13T10:42:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12916,7 +12960,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-02 10:17:14",
+                "time": "2016-09-02T10:17:14+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -12963,7 +13007,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-06 11:06:29",
+                "time": "2016-09-06T11:06:29+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13010,7 +13054,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-09 08:41:08",
+                "time": "2016-09-09T08:41:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13057,7 +13101,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-13 08:18:02",
+                "time": "2016-09-13T08:18:02+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13089,7 +13133,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "ed1671a7d7591f66c9afdca6a2bc710c373e44e5"
+                    "reference": "62ff87a171f5c74666c21aa829483fc38903f007"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -13104,7 +13148,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-02 13:03:45",
+                "time": "2017-02-02T13:03:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13151,7 +13195,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-15 15:34:53",
+                "time": "2017-03-15T15:34:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13183,7 +13227,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "905e04fe5662c64313faa56825a57678cc3d2e68"
+                    "reference": "25fa92c6eded39ddb9a66170c3a04a420edc8cb0"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -13198,7 +13242,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-15 17:53:59",
+                "time": "2017-03-15T17:53:59+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13245,7 +13289,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-16 09:34:41",
+                "time": "2017-03-16T09:34:41+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13277,7 +13321,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "99327d50fe3d9c64d99852bda9603f4f1fc76619"
+                    "reference": "3e4183dad2769dc8a069a28bf3d7a82cbcb2a50b"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -13292,7 +13336,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-16 16:34:45",
+                "time": "2017-03-16T16:34:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13339,7 +13383,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-03-21 12:27:55",
+                "time": "2017-03-21T12:27:55+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13386,7 +13430,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-04-04 10:34:39",
+                "time": "2017-04-04T10:34:39+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13433,7 +13477,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-04-04 12:15:41",
+                "time": "2017-04-04T12:15:41+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13480,7 +13524,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-04-05 15:26:31",
+                "time": "2017-04-05T15:26:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13512,7 +13556,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "de6f2ed4f5abaf72441e056784c5265c69c62035"
+                    "reference": "cde433f4def9cb51ecb8f4772f9324fb96216b09"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -13527,7 +13571,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-29 16:19:35",
+                "time": "2017-06-29T16:19:35+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13559,7 +13603,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ocourier.git",
-                    "reference": "f1356a47bb514072776d10478173578a38fb3acb"
+                    "reference": "e3634bcd1edd10e4ba222a307ddc10bdcbd232df"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -13574,7 +13618,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-15 15:54:33",
+                "time": "2017-08-15T15:54:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13621,7 +13665,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-15 15:54:33",
+                "time": "2017-08-15T15:54:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13668,7 +13712,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-11 09:03:32",
+                "time": "2017-08-11T09:03:32+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13715,7 +13759,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-08-02 08:09:11",
+                "time": "2017-08-02T08:09:11+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13763,7 +13807,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-01 08:43:51",
+                "time": "2015-04-01T08:43:51+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -13797,7 +13841,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-23 19:49:28",
+                "time": "2016-11-23T19:49:28+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13832,7 +13876,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/openid.git",
-                    "reference": "0f6b9ef92c737ec220f6e483c2ddcc8006ef55ed"
+                    "reference": "a07edc1e2ee3a188f35dce4f21285d5cd3a90687"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*",
@@ -13848,7 +13892,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-03 14:23:43",
+                "time": "2017-07-03T14:23:43+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13899,7 +13943,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-03 14:23:43",
+                "time": "2017-07-03T14:23:43+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -13950,7 +13994,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-01 15:32:05",
+                "time": "2015-04-01T15:32:05+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -13983,7 +14027,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-01-20 13:45:50",
+                "time": "2016-01-20T13:45:50+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14024,7 +14068,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-30 11:27:46",
+                "time": "2016-06-30T11:27:46+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14065,7 +14109,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-20 14:07:33",
+                "time": "2017-02-20T14:07:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14106,7 +14150,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-22 11:42:45",
+                "time": "2017-02-22T11:42:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14147,7 +14191,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-22 11:42:45",
+                "time": "2017-02-22T11:42:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14190,7 +14234,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-09 18:45:37",
+                "time": "2016-08-09T18:45:37+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14236,7 +14280,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-12 17:38:48",
+                "time": "2016-08-12T17:38:48+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14282,7 +14326,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-22 10:22:18",
+                "time": "2016-09-22T10:22:18+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14328,7 +14372,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-28 11:44:47",
+                "time": "2016-09-28T11:44:47+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14374,7 +14418,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-05 09:19:38",
+                "time": "2016-10-05T09:19:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14420,7 +14464,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-11 12:58:28",
+                "time": "2016-10-11T12:58:28+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14466,7 +14510,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-12 14:03:30",
+                "time": "2016-10-12T14:03:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14512,7 +14556,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-12 14:03:30",
+                "time": "2016-10-12T14:03:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14543,16 +14587,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pek",
-                    "reference": "faab2de0e1af0dd7d2f2e0fd284de5197a719a49"
+                    "reference": "5525861742027a38e2ec0f4a1931de7208c8ebf3"
                 },
                 "require": {
-                    "mygento/shipment": "2.*",
+                    "mygento/shipment": "dev-m2.1",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-09-13 17:02:11",
+                "time": "2017-09-19T16:30:10+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -14601,7 +14645,7 @@
                     "magento/framework": "*",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2016-06-02 14:03:50",
+                "time": "2016-06-02T14:03:50+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -14643,7 +14687,7 @@
                     "mygento/shipment": "dev-MYGMOD-3",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2017-05-24 21:59:22",
+                "time": "2017-05-24T21:59:22+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -14696,7 +14740,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-07 13:24:49",
+                "time": "2015-09-07T13:24:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -14740,7 +14784,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-07 13:24:49",
+                "time": "2015-09-07T13:24:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -14787,7 +14831,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-29 13:10:29",
+                "time": "2016-06-29T13:10:29+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14833,7 +14877,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-01 13:27:27",
+                "time": "2016-07-01T13:27:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14879,7 +14923,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-05 13:50:53",
+                "time": "2016-07-05T13:50:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14925,7 +14969,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-14 14:17:04",
+                "time": "2016-07-14T14:17:04+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -14971,7 +15015,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-22 06:00:51",
+                "time": "2016-08-22T06:00:51+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15017,7 +15061,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-22 08:45:47",
+                "time": "2016-08-22T08:45:47+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15063,7 +15107,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-05-10 11:57:56",
+                "time": "2017-05-10T11:57:56+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15109,7 +15153,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-05-10 13:55:21",
+                "time": "2017-05-10T13:55:21+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15155,7 +15199,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-27 10:58:53",
+                "time": "2017-06-27T10:58:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15191,7 +15235,7 @@
                     "magento/framework": "*",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2016-07-25 09:10:47",
+                "time": "2016-07-25T09:10:47+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -15242,7 +15286,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-27 10:58:53",
+                "time": "2017-06-27T10:58:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15289,7 +15333,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-12 12:12:57",
+                "time": "2016-08-12T12:12:57+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15334,7 +15378,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-23 07:40:20",
+                "time": "2016-12-23T07:40:20+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15379,7 +15423,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-01 09:42:51",
+                "time": "2017-02-01T09:42:51+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15424,7 +15468,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-12 12:21:10",
+                "time": "2017-07-12T12:21:10+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15454,7 +15498,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "b9a3c09f798c7942c125ca530fb10d05a40a465b"
+                    "reference": "9ecbf24a1a56d7b56dd09fd3a4ee3fd7e6592f4d"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -15469,7 +15513,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-23 16:16:52",
+                "time": "2016-09-23T16:16:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15514,7 +15558,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-04 20:47:33",
+                "time": "2016-10-04T20:47:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15559,7 +15603,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-12 16:17:48",
+                "time": "2016-10-12T16:17:48+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15604,7 +15648,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-31 09:17:31",
+                "time": "2016-10-31T09:17:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15649,7 +15693,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-11-01 17:02:06",
+                "time": "2016-11-01T17:02:06+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15694,7 +15738,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-01 08:39:44",
+                "time": "2016-12-01T08:39:44+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15739,7 +15783,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-02 10:00:56",
+                "time": "2016-12-02T10:00:56+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15769,7 +15813,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/ponyexpress",
-                    "reference": "a7079db313cfd1d2862a932a7541ebbfd1a748b7"
+                    "reference": "d4cfdcdd384fea54e7a95d986b0db4e2604d83aa"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -15782,7 +15826,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-15 15:30:58",
+                "time": "2017-08-15T15:30:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15818,7 +15862,7 @@
                     "magento/framework": "*",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2017-04-01 22:18:32",
+                "time": "2017-04-01T22:18:32+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -15866,7 +15910,7 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-08-15 15:30:58",
+                "time": "2017-08-15T15:30:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15911,7 +15955,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-17 13:11:56",
+                "time": "2017-01-17T13:11:56+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15956,7 +16000,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-01 09:41:30",
+                "time": "2017-02-01T09:41:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -15999,7 +16043,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-03-27 16:23:15",
+                "time": "2015-03-27T16:23:15+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -16029,7 +16073,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-28 12:16:13",
+                "time": "2015-08-28T12:16:13+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16070,7 +16114,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-01 11:28:41",
+                "time": "2015-09-01T11:28:41+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16113,7 +16157,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-11-16 11:32:01",
+                "time": "2015-11-16T11:32:01+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16158,7 +16202,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-18 11:25:31",
+                "time": "2015-12-18T11:25:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16203,7 +16247,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-06 13:39:23",
+                "time": "2016-07-06T13:39:23+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16248,7 +16292,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-15 08:05:15",
+                "time": "2016-07-15T08:05:15+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16293,7 +16337,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-19 12:58:27",
+                "time": "2016-12-19T12:58:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16338,7 +16382,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-12 11:46:37",
+                "time": "2017-01-12T11:46:37+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16383,7 +16427,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-12 11:46:37",
+                "time": "2017-01-12T11:46:37+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16430,7 +16474,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-29 12:46:31",
+                "time": "2015-12-29T12:46:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16475,7 +16519,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-29 13:31:21",
+                "time": "2015-12-29T13:31:21+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16520,7 +16564,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-11 11:49:05",
+                "time": "2016-02-11T11:49:05+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16565,7 +16609,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-18 20:29:21",
+                "time": "2016-02-18T20:29:21+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16610,7 +16654,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-06 08:48:30",
+                "time": "2016-05-06T08:48:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16657,7 +16701,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-30 10:47:10",
+                "time": "2015-07-30T10:47:10+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -16701,7 +16745,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-03 10:11:00",
+                "time": "2015-08-03T10:11:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -16745,7 +16789,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-06 14:33:48",
+                "time": "2015-08-06T14:33:48+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -16789,7 +16833,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-01-31 18:34:34",
+                "time": "2016-01-31T18:34:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16834,7 +16878,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-11 10:48:45",
+                "time": "2016-02-11T10:48:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16879,7 +16923,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-21 08:08:00",
+                "time": "2016-06-21T08:08:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16924,7 +16968,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-21 08:08:00",
+                "time": "2016-06-21T08:08:00+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -16971,7 +17015,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-25 12:15:26",
+                "time": "2015-06-25T12:15:26+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17017,7 +17061,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-23 19:44:21",
+                "time": "2015-12-23T19:44:21+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17063,7 +17107,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-23 20:03:49",
+                "time": "2015-12-23T20:03:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17109,7 +17153,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-23 20:03:49",
+                "time": "2015-12-23T20:03:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17156,7 +17200,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-03-23 20:40:33",
+                "time": "2015-03-23T20:40:33+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -17186,7 +17230,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-05-25 21:11:27",
+                "time": "2015-05-25T21:11:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -17230,7 +17274,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-17 11:55:50",
+                "time": "2015-09-17T11:55:50+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -17274,7 +17318,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-24 08:33:52",
+                "time": "2015-09-24T08:33:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -17318,7 +17362,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-21 07:39:42",
+                "time": "2016-07-21T07:39:42+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -17362,7 +17406,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-17 11:55:50",
+                "time": "2015-09-17T11:55:50+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -17410,7 +17454,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-07 13:36:40",
+                "time": "2017-02-07T13:36:40+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17453,7 +17497,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-19 11:10:23",
+                "time": "2016-07-19T11:10:23+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17496,7 +17540,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-22 10:00:52",
+                "time": "2016-07-22T10:00:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17539,7 +17583,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-08-02 08:38:34",
+                "time": "2016-08-02T08:38:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17582,7 +17626,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-16 10:39:48",
+                "time": "2017-01-16T10:39:48+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17625,7 +17669,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-20 07:36:39",
+                "time": "2017-01-20T07:36:39+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17668,7 +17712,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-20 08:24:22",
+                "time": "2017-01-20T08:24:22+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17711,7 +17755,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-01-20 13:10:06",
+                "time": "2017-01-20T13:10:06+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17754,7 +17798,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-08 11:45:54",
+                "time": "2017-02-08T11:45:54+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17795,7 +17839,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-02 11:59:06",
+                "time": "2016-02-02T11:59:06+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17838,7 +17882,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-19 11:09:23",
+                "time": "2016-07-19T11:09:23+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17881,7 +17925,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-29 20:16:18",
+                "time": "2015-04-29T20:16:18+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -17914,7 +17958,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-02 09:58:09",
+                "time": "2015-07-02T09:58:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -17947,7 +17991,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-22 21:03:08",
+                "time": "2015-10-22T21:03:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -17993,7 +18037,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-29 14:58:33",
+                "time": "2015-10-29T14:58:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18039,7 +18083,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-04-19 08:23:49",
+                "time": "2016-04-19T08:23:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18085,7 +18129,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-06 20:54:10",
+                "time": "2016-05-06T20:54:10+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18131,7 +18175,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-05-24 14:01:21",
+                "time": "2016-05-24T14:01:21+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18177,7 +18221,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-07 09:48:09",
+                "time": "2016-06-07T09:48:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18223,7 +18267,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-14 13:51:08",
+                "time": "2016-06-14T13:51:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18269,7 +18313,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-05 14:29:37",
+                "time": "2016-07-05T14:29:37+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18315,7 +18359,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-29 16:34:59",
+                "time": "2017-06-29T16:34:59+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18361,7 +18405,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-13 11:17:45",
+                "time": "2017-07-13T11:17:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18407,7 +18451,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-14 13:56:40",
+                "time": "2017-07-14T13:56:40+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18453,7 +18497,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-14 13:56:40",
+                "time": "2017-07-14T13:56:40+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18499,7 +18543,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-29 20:16:18",
+                "time": "2015-04-29T20:16:18+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -18535,7 +18579,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-12-05 13:50:31",
+                "time": "2016-12-05T13:50:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18583,7 +18627,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-28 10:21:02",
+                "time": "2015-10-28T10:21:02+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18629,7 +18673,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-11-12 09:38:53",
+                "time": "2015-11-12T09:38:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18675,7 +18719,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-11-12 12:48:50",
+                "time": "2015-11-12T12:48:50+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18722,7 +18766,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-07 11:24:19",
+                "time": "2015-04-07T11:24:19+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -18755,7 +18799,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-23 13:00:12",
+                "time": "2015-04-23T13:00:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -18788,7 +18832,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-05-22 13:32:04",
+                "time": "2015-05-22T13:32:04+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -18821,7 +18865,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-15 13:35:09",
+                "time": "2015-06-15T13:35:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -18854,7 +18898,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-04 16:51:45",
+                "time": "2015-07-04T16:51:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18900,7 +18944,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-06 19:12:47",
+                "time": "2015-07-06T19:12:47+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18946,7 +18990,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-14 13:08:42",
+                "time": "2016-03-14T13:08:42+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -18992,7 +19036,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-21 14:50:17",
+                "time": "2016-03-21T14:50:17+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19038,7 +19082,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-22 15:56:09",
+                "time": "2016-03-22T15:56:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19084,7 +19128,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-25 15:13:38",
+                "time": "2016-03-25T15:13:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19130,7 +19174,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-26 17:48:58",
+                "time": "2016-03-26T17:48:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19176,7 +19220,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-29 11:29:22",
+                "time": "2016-03-29T11:29:22+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19222,7 +19266,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-04 10:33:15",
+                "time": "2016-07-04T10:33:15+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19268,7 +19312,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-08-12 20:38:17",
+                "time": "2015-08-12T20:38:17+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19314,7 +19358,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-07-18 06:11:57",
+                "time": "2016-07-18T06:11:57+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19360,7 +19404,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-14 08:48:07",
+                "time": "2016-09-14T08:48:07+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19407,7 +19451,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-10 07:43:07",
+                "time": "2016-10-10T07:43:07+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19454,7 +19498,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-10-10 16:10:32",
+                "time": "2016-10-10T16:10:32+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19501,7 +19545,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-08 09:28:26",
+                "time": "2015-09-08T09:28:26+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19547,7 +19591,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-17 12:34:17",
+                "time": "2015-09-17T12:34:17+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19593,7 +19637,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-08 12:56:05",
+                "time": "2015-10-08T12:56:05+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19639,7 +19683,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-16 11:32:09",
+                "time": "2015-10-16T11:32:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19685,7 +19729,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-10-28 10:15:29",
+                "time": "2015-10-28T10:15:29+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19731,7 +19775,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-12-24 10:59:12",
+                "time": "2015-12-24T10:59:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19777,7 +19821,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-01-05 20:15:09",
+                "time": "2016-01-05T20:15:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19823,7 +19867,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-09 11:17:37",
+                "time": "2017-02-09T11:17:37+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19870,7 +19914,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-02-10 13:51:03",
+                "time": "2017-02-10T13:51:03+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19917,7 +19961,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-05-30 14:52:15",
+                "time": "2017-05-30T14:52:15+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -19949,7 +19993,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexkassa",
-                    "reference": "fc85653883ba13fdf22853a869daafe0b97c82b7"
+                    "reference": "b94436b8c5b62908acf8b814e6aea9a22955a3ac"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -19964,7 +20008,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-05-31 09:48:37",
+                "time": "2017-05-31T09:48:37+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20011,7 +20055,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-13 14:38:08",
+                "time": "2017-06-13T14:38:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20058,7 +20102,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-13 17:58:06",
+                "time": "2017-06-13T17:58:06+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20105,7 +20149,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-26 14:39:42",
+                "time": "2017-06-26T14:39:42+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20152,7 +20196,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-29 15:00:53",
+                "time": "2017-06-29T15:00:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20199,7 +20243,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-19 16:34:12",
+                "time": "2017-07-19T16:34:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20246,7 +20290,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-07-19 16:34:12",
+                "time": "2017-07-19T16:34:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20293,7 +20337,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-19 14:47:52",
+                "time": "2016-02-19T14:47:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20341,7 +20385,7 @@
                     "mygento/payment": "dev-m2",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2017-08-14 13:12:45",
+                "time": "2017-08-14T13:12:45+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -20394,7 +20438,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-01-08 19:21:44",
+                "time": "2016-01-08T19:21:44+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -20426,7 +20470,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-30 12:33:12",
+                "time": "2016-03-30T12:33:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -20458,7 +20502,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-03-30 12:33:12",
+                "time": "2016-03-30T12:33:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -20484,7 +20528,7 @@
                     "magento/framework": "*",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2017-04-10 07:48:10",
+                "time": "2017-04-10T07:48:10+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -20518,7 +20562,7 @@
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2015-03-18 14:36:00",
+                "time": "2015-03-18T14:36:00+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -20548,7 +20592,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-14 11:42:47",
+                "time": "2015-04-14T11:42:47+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -20566,7 +20610,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "b1e06432be5252b94675e9c286b502d07e525b5c"
+                    "reference": "43381afaa88aca76a3c47f2a2e84362df04803da"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -20584,7 +20628,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-29 20:32:14",
+                "time": "2017-06-29T20:32:14+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20630,7 +20674,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-19 09:39:58",
+                "time": "2015-06-19T09:39:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20674,7 +20718,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-06-22 21:24:32",
+                "time": "2015-06-22T21:24:32+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20718,7 +20762,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-07-30 08:37:33",
+                "time": "2015-07-30T08:37:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20762,7 +20806,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-10 11:39:28",
+                "time": "2015-09-10T11:39:28+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20806,7 +20850,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-11-27 08:44:43",
+                "time": "2015-11-27T08:44:43+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20850,7 +20894,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-02-05 11:14:38",
+                "time": "2016-02-05T11:14:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20894,7 +20938,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-06-23 09:22:45",
+                "time": "2016-06-23T09:22:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20938,7 +20982,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2016-09-30 10:54:08",
+                "time": "2016-09-30T10:54:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -20967,7 +21011,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "1a2336d54117028a06f6345e1316fe928ab3eabf"
+                    "reference": "3f350b26fcd7697c2a6f21532d2be52346f643ca"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -20985,7 +21029,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-04-13 13:22:57",
+                "time": "2017-04-13T13:22:57+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -21021,7 +21065,7 @@
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2015-01-16 09:38:59",
+                "time": "2015-01-16T09:38:59+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -21036,7 +21080,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "43381afaa88aca76a3c47f2a2e84362df04803da"
+                    "reference": "3a0bea2d82c1c8ff30eee755d29f358d0d36cd24"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -21054,7 +21098,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-06-29 20:32:14",
+                "time": "2017-09-15T10:07:15+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -21100,7 +21144,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-27 13:50:52",
+                "time": "2015-04-27T13:50:52+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
@@ -21118,7 +21162,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "b891a378b4c24dfd980d48f15ba2f3aa74344095"
+                    "reference": "b5055fa13de81dbb16f94f1ff559a0b7cdb21db4"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -21133,7 +21177,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-14 12:45:21",
+                "time": "2017-09-15T10:04:25+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -21177,7 +21221,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-09-10 11:36:11",
+                "time": "2015-09-10T11:36:11+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -21218,7 +21262,7 @@
                     "mygento/ioncube": "2.*",
                     "php": "~5.5.0|~5.6.0|~7.0.0"
                 },
-                "time": "2017-04-27 18:00:54",
+                "time": "2017-04-27T18:00:54+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -21262,7 +21306,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2015-04-14 14:52:16",
+                "time": "2015-04-14T14:52:16+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": "."
