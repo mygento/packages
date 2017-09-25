@@ -4492,14 +4492,14 @@
                     "shipping"
                 ]
             },
-            "dev-master": {
+            "3.2.0.8": {
                 "name": "mygento/cdek",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "3.2.0.8",
+                "version_normalized": "3.2.0.8",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/cdek",
-                    "reference": "0abdfd041b7f1b1b20ebf17530111aa91557a21b"
+                    "reference": "6a677cefa4c5bd42edfd6c0969b3c66365fe32ad"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -4512,7 +4512,51 @@
                     "sebastian/phpcpd": "*",
                     "sebastian/phpdcd": "*"
                 },
-                "time": "2017-09-18T14:25:48+00:00",
+                "time": "2017-09-25T14:18:04+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": ".",
+                    "with-bootstrap-patch": false
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mygento",
+                        "email": "connect@mygento.net",
+                        "homepage": "http://www.mygento.net/"
+                    }
+                ],
+                "description": "CDEK shipping module",
+                "homepage": "https://www.mygento.ru/modules/cdek-edostavka.html",
+                "keywords": [
+                    "cdek",
+                    "magento",
+                    "shipping"
+                ]
+            },
+            "dev-master": {
+                "name": "mygento/cdek",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/cdek",
+                    "reference": "6a677cefa4c5bd42edfd6c0969b3c66365fe32ad"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "3.*"
+                },
+                "require-dev": {
+                    "jakub-onderka/php-console-highlighter": "0.*",
+                    "jakub-onderka/php-parallel-lint": "0.*",
+                    "mygento/coding-standard": "1.*",
+                    "phpmd/phpmd": "@stable",
+                    "sebastian/phpcpd": "*",
+                    "sebastian/phpdcd": "*"
+                },
+                "time": "2017-09-25T14:18:04+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -6594,6 +6638,107 @@
                 "description": "Magento Enterprise",
                 "homepage": "http://www.magentocommerce.com"
             },
+            "1.10.1.1-patch15": {
+                "name": "mygento/enterprise",
+                "version": "1.10.1.1-patch15",
+                "version_normalized": "1.10.1.1-patch15",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/enterprise.git",
+                    "reference": "7a05976477b2b8127657ab00aef33678a3f5485e"
+                },
+                "time": "2017-09-20T13:41:10+00:00",
+                "type": "magento-core",
+                "extra": {
+                    "map": [
+                        [
+                            "app",
+                            "app"
+                        ],
+                        [
+                            "downloader",
+                            "downloader"
+                        ],
+                        [
+                            "errors",
+                            "errors"
+                        ],
+                        [
+                            "includes",
+                            "includes"
+                        ],
+                        [
+                            "js",
+                            "js"
+                        ],
+                        [
+                            "lib",
+                            "lib"
+                        ],
+                        [
+                            "media",
+                            "media"
+                        ],
+                        [
+                            "pkginfo",
+                            "pkginfo"
+                        ],
+                        [
+                            "shell",
+                            "shell"
+                        ],
+                        [
+                            "skin",
+                            "skin"
+                        ],
+                        [
+                            "var",
+                            "var"
+                        ],
+                        [
+                            ".htaccess",
+                            ".htaccess"
+                        ],
+                        [
+                            "api.php",
+                            "api.php"
+                        ],
+                        [
+                            "cron.php",
+                            "cron.php"
+                        ],
+                        [
+                            "cron.sh",
+                            "cron.sh"
+                        ],
+                        [
+                            "favicon.ico",
+                            "favicon.ico"
+                        ],
+                        [
+                            "get.php",
+                            "get.php"
+                        ],
+                        [
+                            "index.php",
+                            "index.php"
+                        ],
+                        [
+                            "install.php",
+                            "install.php"
+                        ],
+                        [
+                            "mage",
+                            "mage"
+                        ]
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Magento Enterprise",
+                "homepage": "http://www.magentocommerce.com"
+            },
             "1.10.1.1-patch2": {
                 "name": "mygento/enterprise",
                 "version": "1.10.1.1-patch2",
@@ -7409,9 +7554,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/enterprise.git",
-                    "reference": "a0d65f4f136e955be1134612a77bdc636dd415ff"
+                    "reference": "7a05976477b2b8127657ab00aef33678a3f5485e"
                 },
-                "time": "2017-08-02T08:03:55+00:00",
+                "time": "2017-09-20T13:41:10+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -7917,6 +8062,107 @@
                     "reference": "e9e5d4590f5ac42612cbaf26f2330cba07189769"
                 },
                 "time": "2017-08-02T08:11:13+00:00",
+                "type": "magento-core",
+                "extra": {
+                    "map": [
+                        [
+                            "app",
+                            "app"
+                        ],
+                        [
+                            "downloader",
+                            "downloader"
+                        ],
+                        [
+                            "errors",
+                            "errors"
+                        ],
+                        [
+                            "includes",
+                            "includes"
+                        ],
+                        [
+                            "js",
+                            "js"
+                        ],
+                        [
+                            "lib",
+                            "lib"
+                        ],
+                        [
+                            "media",
+                            "media"
+                        ],
+                        [
+                            "pkginfo",
+                            "pkginfo"
+                        ],
+                        [
+                            "shell",
+                            "shell"
+                        ],
+                        [
+                            "skin",
+                            "skin"
+                        ],
+                        [
+                            "var",
+                            "var"
+                        ],
+                        [
+                            ".htaccess",
+                            ".htaccess"
+                        ],
+                        [
+                            "api.php",
+                            "api.php"
+                        ],
+                        [
+                            "cron.php",
+                            "cron.php"
+                        ],
+                        [
+                            "cron.sh",
+                            "cron.sh"
+                        ],
+                        [
+                            "favicon.ico",
+                            "favicon.ico"
+                        ],
+                        [
+                            "get.php",
+                            "get.php"
+                        ],
+                        [
+                            "index.php",
+                            "index.php"
+                        ],
+                        [
+                            "install.php",
+                            "install.php"
+                        ],
+                        [
+                            "mage",
+                            "mage"
+                        ]
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Magento Enterprise",
+                "homepage": "http://www.magentocommerce.com"
+            },
+            "1.11.2.0-patch13": {
+                "name": "mygento/enterprise",
+                "version": "1.11.2.0-patch13",
+                "version_normalized": "1.11.2.0-patch13",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/enterprise.git",
+                    "reference": "fae94042719840ac291c37bc7996512506432679"
+                },
+                "time": "2017-09-20T13:57:59+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -8823,9 +9069,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/enterprise.git",
-                    "reference": "e9e5d4590f5ac42612cbaf26f2330cba07189769"
+                    "reference": "fae94042719840ac291c37bc7996512506432679"
                 },
-                "time": "2017-08-02T08:11:13+00:00",
+                "time": "2017-09-20T13:57:59+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -10545,6 +10791,107 @@
                 "description": "Magento Enterprise",
                 "homepage": "http://www.magentocommerce.com"
             },
+            "1.14.3.4-patch1": {
+                "name": "mygento/enterprise",
+                "version": "1.14.3.4-patch1",
+                "version_normalized": "1.14.3.4-patch1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:mygento/enterprise.git",
+                    "reference": "989f4ed9b86f444ac141bb6752c9246aebad5e95"
+                },
+                "time": "2017-09-20T14:00:01+00:00",
+                "type": "magento-core",
+                "extra": {
+                    "map": [
+                        [
+                            "app",
+                            "app"
+                        ],
+                        [
+                            "dev",
+                            "dev"
+                        ],
+                        [
+                            "downloader",
+                            "downloader"
+                        ],
+                        [
+                            "errors",
+                            "errors"
+                        ],
+                        [
+                            "includes",
+                            "includes"
+                        ],
+                        [
+                            "js",
+                            "js"
+                        ],
+                        [
+                            "lib",
+                            "lib"
+                        ],
+                        [
+                            "media",
+                            "media"
+                        ],
+                        [
+                            "shell",
+                            "shell"
+                        ],
+                        [
+                            "skin",
+                            "skin"
+                        ],
+                        [
+                            "var",
+                            "var"
+                        ],
+                        [
+                            ".htaccess",
+                            ".htaccess"
+                        ],
+                        [
+                            "api.php",
+                            "api.php"
+                        ],
+                        [
+                            "cron.php",
+                            "cron.php"
+                        ],
+                        [
+                            "cron.sh",
+                            "cron.sh"
+                        ],
+                        [
+                            "favicon.ico",
+                            "favicon.ico"
+                        ],
+                        [
+                            "get.php",
+                            "get.php"
+                        ],
+                        [
+                            "index.php",
+                            "index.php"
+                        ],
+                        [
+                            "install.php",
+                            "install.php"
+                        ],
+                        [
+                            "mage",
+                            "mage"
+                        ]
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Magento Enterprise",
+                "homepage": "http://www.magentocommerce.com"
+            },
             "1.14.x-dev": {
                 "name": "mygento/enterprise",
                 "version": "1.14.x-dev",
@@ -10552,9 +10899,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/enterprise.git",
-                    "reference": "d846d5c1bf9e9ef3fd67f29bdad67c90abd3ee6f"
+                    "reference": "989f4ed9b86f444ac141bb6752c9246aebad5e95"
                 },
-                "time": "2017-08-15T19:49:32+00:00",
+                "time": "2017-09-20T14:00:01+00:00",
                 "type": "magento-core",
                 "extra": {
                     "map": [
@@ -14587,7 +14934,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/pek",
-                    "reference": "5525861742027a38e2ec0f4a1931de7208c8ebf3"
+                    "reference": "7dc756fc7b9faa6227733b5562a13de19f60ede8"
                 },
                 "require": {
                     "mygento/shipment": "dev-m2.1",
@@ -14596,7 +14943,7 @@
                 "require-dev": {
                     "mygento/coding-standard": "2.*"
                 },
-                "time": "2017-09-19T16:30:10+00:00",
+                "time": "2017-09-21T16:42:15+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -21080,7 +21427,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "3a0bea2d82c1c8ff30eee755d29f358d0d36cd24"
+                    "reference": "61a926c6396c409fdfe4e12d51a20da924c6989a"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -21098,7 +21445,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-15T10:07:15+00:00",
+                "time": "2017-09-21T11:00:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
@@ -21162,7 +21509,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:mygento/yandexpro.git",
-                    "reference": "b5055fa13de81dbb16f94f1ff559a0b7cdb21db4"
+                    "reference": "689c49cb935456503a2ffc34c6c6bbe003699048"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "3.*"
@@ -21177,7 +21524,7 @@
                     "sebastian/phpdcd": "*",
                     "squizlabs/php_codesniffer": "2.*"
                 },
-                "time": "2017-09-15T10:04:25+00:00",
+                "time": "2017-09-21T09:15:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "magento-root-dir": ".",
